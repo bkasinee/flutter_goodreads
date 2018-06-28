@@ -1,0 +1,2896 @@
+{    
+      "author": {
+        "id": "3354",
+        "name": "Haruki Murakami",
+        "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+        "books": {
+            "total": "337",
+            "book": [
+                {
+                "id": 11297,
+                "isbn": "0375704027",
+                "isbn13": "9780375704024",
+                "text_reviews_count": 9860,
+                "uri": "kca://book/amzn1.gr.book.v1.AlP6ID8bNidEco9FBwNaNA",
+                "title": "Norwegian Wood",
+                "title_without_series": "Norwegian Wood",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": [],
+                "link": "https://www.goodreads.com/book/show/11297.Norwegian_Wood",
+                "num_pages": "296",
+                "format": "Paperback",
+                "edition_information": [],
+                "publisher": "Vintage Books",
+                "publication_day": "12",
+                "publication_year": "2000",
+                "publication_month": "9",
+                "average_rating": "4.03",
+                "ratings_count": "246278",
+                "description": "Toru, a quiet and preternaturally serious young college student in Tokyo, is devoted to Naoko, a beautiful and introspective young woman, but their mutual passion is marked by the tragic death of their best friend years before. Toru begins to adapt to campus life and the loneliness and isolation he faces there, but Naoko finds the pressures and responsibilities of life unbearable. As she retreats further into her own world, Toru finds himself reaching out to others and drawn to a fiercely independent and sexually liberated young woman.<br /><br />A poignant story of one college student's romantic coming-of-age, <b>Norwegian Wood<\/b> takes us to that distant place of a young man's first, hopeless, and heroic love.",
+                "authors": {
+                    "author": {
+                        "id": "3354",
+                        "name": "Haruki Murakami",
+                        "role": [],
+                        "image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+                        },
+                        "small_image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+                        "average_rating": "3.95",
+                        "ratings_count": "1734542",
+                        "text_reviews_count": "125016"
+                    }
+                },
+                "published": "2000",
+                "work": {
+                    "id": "2956680",
+                    "uri": "kca://work/amzn1.gr.work.v1.3EVbzGfvXUWo3YZcXtQLMw"
+                }
+                },
+                {
+                "id": 4929,
+                "isbn": "1400079276",
+                "isbn13": "9781400079278",
+                "text_reviews_count": 10238,
+                "uri": "kca://book/amzn1.gr.book.v1.gDH1_-18MG4EmXmSl6pqIw",
+                "title": "Kafka on the Shore",
+                "title_without_series": "Kafka on the Shore",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": [],
+                "link": "https://www.goodreads.com/book/show/4929.Kafka_on_the_Shore",
+                "num_pages": "480",
+                "format": "Paperback",
+                "edition_information": "US / Canada",
+                "publisher": "Vintage International",
+                "publication_day": "3",
+                "publication_year": "2006",
+                "publication_month": "1",
+                "average_rating": "4.13",
+                "ratings_count": "221012",
+                "description": "<i>Kafka on the Shore<\/i> is powered by two remarkable characters: a teenage boy, Kafka Tamura, who runs away from home either to escape a gruesome oedipal prophecy or to search for his long-missing mother and sister; and an aging simpleton called Nakata, who never recovered from a wartime affliction and now is drawn toward Kafka for reasons that, like the most basic activities of daily life, he cannot fathom.<br /><br />As their paths converge, and the reasons for that convergence become clear, Haruki Murakami enfolds readers in a world where cats talk, fish fall from the sky, and spirits slip out of their bodies to make love or commit murder. <i>Kafka on the Shore<\/i> displays one of the world’s great storytellers at the peak of his powers.",
+                "authors": {
+                    "author": {
+                        "id": "3354",
+                        "name": "Haruki Murakami",
+                        "role": [],
+                        "image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+                        },
+                        "small_image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+                        "average_rating": "3.95",
+                        "ratings_count": "1734542",
+                        "text_reviews_count": "125016"
+                    }
+                },
+                "published": "2006",
+                "work": {
+                    "id": "6191072",
+                    "uri": "kca://work/amzn1.gr.work.v1.YabzJ8KPH2tcPHlSFH7clw"
+                }
+                },
+                {
+                "id": 11275,
+                "isbn": "0965341984",
+                "isbn13": "9780965341981",
+                "text_reviews_count": 8346,
+                "uri": "kca://book/amzn1.gr.book.v1.XW4PJtN0YvDji_O4RkioVg",
+                "title": "The Wind-Up Bird Chronicle",
+                "title_without_series": "The Wind-Up Bird Chronicle",
+                "image_url": "https://images.gr-assets.com/books/1327872639m/11275.jpg",
+                "small_image_url": "https://images.gr-assets.com/books/1327872639s/11275.jpg",
+                "large_image_url": [],
+                "link": "https://www.goodreads.com/book/show/11275.The_Wind_Up_Bird_Chronicle",
+                "num_pages": "607",
+                "format": "Paperback",
+                "edition_information": [],
+                "publisher": "Knopf",
+                "publication_day": [],
+                "publication_year": "1997",
+                "publication_month": [],
+                "average_rating": "4.17",
+                "ratings_count": "174568",
+                "description": "Japan's most highly regarded novelist now vaults into the first ranks of international fiction writers with this heroically imaginative novel, which is at once a detective story, an account of a disintegrating marriage, and an excavation of the buried secrets of World War II.<br /><br />In a Tokyo suburb a young man named Toru Okada searches for his wife's missing cat. Soon he finds himself looking for his wife as well in a netherworld that lies beneath the placid surface of Tokyo. As these searches intersect, Okada encounters a bizarre group of allies and antagonists: a psychic prostitute; a malevolent yet mediagenic politician; a cheerfully morbid sixteen-year-old-girl; and an aging war veteran who has been permanently changed by the hideous things he witnessed during Japan's forgotten campaign in Manchuria.<br /><br />Gripping, prophetic, suffused with comedy and menace, <i>The Wind-Up Bird Chronicle<\/i> is a tour de force equal in scope to the masterpieces of Mishima and Pynchon.<br /><br />Three books in one volume: The Thieving Magpie, Bird as Prophet, The Birdcatcher. This translation by Jay Rubin is in collaboration with the author.",
+                "authors": {
+                    "author": {
+                        "id": "3354",
+                        "name": "Haruki Murakami",
+                        "role": [],
+                        "image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+                        },
+                        "small_image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+                        "average_rating": "3.95",
+                        "ratings_count": "1734542",
+                        "text_reviews_count": "125016"
+                    }
+                },
+                "published": "1997",
+                "work": {
+                    "id": "2531376",
+                    "uri": "kca://work/amzn1.gr.work.v1.Ljf1FWCw-Dm58RupAFIMIA"
+                }
+                },
+                {
+                "id": 10357575,
+                "isbn": "0307593312",
+                "isbn13": "9780307593313",
+                "text_reviews_count": 12510,
+                "uri": "kca://book/amzn1.gr.book.v1.2jEVf_kdIg3ZTFQ83IFijQ",
+                "title": "1Q84",
+                "title_without_series": "1Q84",
+                "image_url": "https://images.gr-assets.com/books/1483103331m/10357575.jpg",
+                "small_image_url": "https://images.gr-assets.com/books/1483103331s/10357575.jpg",
+                "large_image_url": [],
+                "link": "https://www.goodreads.com/book/show/10357575-1q84",
+                "num_pages": "925",
+                "format": "Hardcover",
+                "edition_information": [],
+                "publisher": "Knopf",
+                "publication_day": "25",
+                "publication_year": "2011",
+                "publication_month": "10",
+                "average_rating": "3.90",
+                "ratings_count": "155096",
+                "description": "<b>The year is 1984 and the city is Tokyo.<\/b><br /><br />A young woman named Aomame follows a taxi driver’s enigmatic suggestion and begins to notice puzzling discrepancies in the world around her. She has entered, she realizes, a parallel existence, which she calls 1Q84 —“Q is for ‘question mark.’ A world that bears a question.” Meanwhile, an aspiring writer named Tengo takes on a suspect ghostwriting project. He becomes so wrapped up with the work and its unusual author that, soon, his previously placid life begins to come unraveled. <br /><br />As Aomame’s and Tengo’s narratives converge over the course of this single year, we learn of the profound and tangled connections that bind them ever closer: a beautiful, dyslexic teenage girl with a unique vision; a mysterious religious cult that instigated a shoot-out with the metropolitan police; a reclusive, wealthy dowager who runs a shelter for abused women; a hideously ugly private investigator; a mild-mannered yet ruthlessly efficient bodyguard; and a peculiarly insistent television-fee collector.<br /><br />A love story, a mystery, a fantasy, a novel of self-discovery, a dystopia to rival George Orwell’s — <i>1Q84<\/i> is Haruki Murakami’s most ambitious undertaking yet: an instant best seller in his native Japan, and a tremendous feat of imagination from one of our most revered contemporary writers.",
+                "authors": {
+                    "author": {
+                        "id": "3354",
+                        "name": "Haruki Murakami",
+                        "role": [],
+                        "image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+                        },
+                        "small_image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+                        "average_rating": "3.95",
+                        "ratings_count": "1734542",
+                        "text_reviews_count": "125016"
+                    }
+                },
+                "published": "2011",
+                "work": {
+                    "id": "18160093",
+                    "uri": "kca://work/amzn1.gr.work.v1.39TTnF2d2qBsSF0tLmt1oQ"
+                }
+                },
+                {
+                "id": 19288239,
+                "isbn": "0385352107",
+                "isbn13": "9780385352109",
+                "text_reviews_count": 6522,
+                "uri": "kca://book/amzn1.gr.book.v1.2X5fCQpeUL8yrLUMPdpDiQ",
+                "title": "Colorless Tsukuru Tazaki and His Years of Pilgrimage",
+                "title_without_series": "Colorless Tsukuru Tazaki and His Years of Pilgrimage",
+                "image_url": "https://images.gr-assets.com/books/1409000450m/19288239.jpg",
+                "small_image_url": "https://images.gr-assets.com/books/1409000450s/19288239.jpg",
+                "large_image_url": [],
+                "link": "https://www.goodreads.com/book/show/19288239-colorless-tsukuru-tazaki-and-his-years-of-pilgrimage",
+                "num_pages": "386",
+                "format": "Hardcover",
+                "edition_information": "First American Edition",
+                "publisher": "Knopf Publishing Group",
+                "publication_day": "12",
+                "publication_year": "2014",
+                "publication_month": "8",
+                "average_rating": "3.83",
+                "ratings_count": "99013",
+                "description": "A New York Times and Washington Post notable book, and one of the Financial Times, St. Louis Post-Dispatch, Slate, Mother Jones, The Daily Beast, and BookPage's best books of the year<br /><br />An instant #1 New York Times Bestseller, Colorless Tsukuru Tazaki and His Years of Pilgrimage is the remarkable story of a young man haunted by a great loss; of dreams and nightmares that have unintended consequences for the world around us; and of a journey into the past that is necessary to mend the present. Here Haruki Murakami—one of the most revered voices in literature today—gives us a story of love, friend­ship, and heartbreak for the ages.",
+                "authors": {
+                    "author": {
+                        "id": "3354",
+                        "name": "Haruki Murakami",
+                        "role": [],
+                        "image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+                        },
+                        "small_image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+                        "average_rating": "3.95",
+                        "ratings_count": "1734542",
+                        "text_reviews_count": "125016"
+                    }
+                },
+                "published": "2014",
+                "work": {
+                    "id": "24593525",
+                    "uri": "kca://work/amzn1.gr.work.v1.Y8ujIG8UYaYCbpTQrNyxIg"
+                }
+                },
+                {
+                "id": 10374,
+                "isbn": {
+                    "@nil": "true"
+                },
+                "isbn13": {
+                    "@nil": "true"
+                },
+                "text_reviews_count": 3265,
+                "uri": "kca://book/amzn1.gr.book.v1.KRdFPII3KKF2-A3D92Gt0w",
+                "title": "Hard-Boiled Wonderland and the End of the World",
+                "title_without_series": "Hard-Boiled Wonderland and the End of the World",
+                "image_url": "https://images.gr-assets.com/books/1399844477m/10374.jpg",
+                "small_image_url": "https://images.gr-assets.com/books/1399844477s/10374.jpg",
+                "large_image_url": [],
+                "link": "https://www.goodreads.com/book/show/10374.Hard_Boiled_Wonderland_and_the_End_of_the_World",
+                "num_pages": "400",
+                "format": "Paperback",
+                "edition_information": [],
+                "publisher": "Vintage",
+                "publication_day": "28",
+                "publication_year": "2001",
+                "publication_month": "9",
+                "average_rating": "4.15",
+                "ratings_count": "85270",
+                "description": "'A narrative particle accelerator that zooms between Wild Turkey Whiskey and Bob Dylan, unicorn skulls and voracious librarians, John Coltrane and <i>Lord Jim<\/i>. Science fiction, detective story and post-modern manifesto all rolled into one rip-roaring novel, <i>Hard-Boiled Wonderland and the End of the World<\/i> is the tour de force that expanded Haruki Murakami's international following. Tracking one man's descent into the Kafkaesque underworld of contemporary Tokyo, Murakami unites East and West, tragedy and farce, compassion and detachment, slang and philosophy.'",
+                "authors": {
+                    "author": {
+                        "id": "3354",
+                        "name": "Haruki Murakami",
+                        "role": [],
+                        "image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+                        },
+                        "small_image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+                        "average_rating": "3.95",
+                        "ratings_count": "1734542",
+                        "text_reviews_count": "125016"
+                    }
+                },
+                "published": "2001",
+                "work": {
+                    "id": "2531870",
+                    "uri": "kca://work/amzn1.gr.work.v1.ixzz8zEBZfqzATfoM8gV3g"
+                }
+                },
+                {
+                "id": 9557,
+                "isbn": "0099448475",
+                "isbn13": "9780099448471",
+                "text_reviews_count": 2967,
+                "uri": "kca://book/amzn1.gr.book.v1.frtz01_lqbMUN7Fj2wk6Yg",
+                "title": "Sputnik Sweetheart",
+                "title_without_series": "Sputnik Sweetheart",
+                "image_url": "https://images.gr-assets.com/books/1508082438m/9557.jpg",
+                "small_image_url": "https://images.gr-assets.com/books/1508082438s/9557.jpg",
+                "large_image_url": [],
+                "link": "https://www.goodreads.com/book/show/9557.Sputnik_Sweetheart",
+                "num_pages": "229",
+                "format": "Paperback",
+                "edition_information": [],
+                "publisher": "Vintage",
+                "publication_day": "3",
+                "publication_year": "2002",
+                "publication_month": "10",
+                "average_rating": "3.82",
+                "ratings_count": "83846",
+                "description": "<i>Alternate cover edition <a href=\"https://www.goodreads.com/book/show/18806499-sputnik-sweetheart\" rel=\"nofollow\">here<\/a>.<\/i><br /><br />Sumire is in love with a woman seventeen years her senior. But whereas Miu is glamorous and successful, Sumire is an aspiring writer who dresses in an oversized second-hand coat and heavy boots like a character in a Kerouac novel.<br /><br />Sumire spends hours on the phone talking to her best friend K about the big questions in life: what is sexual desire, and should she ever tell Miu how she feels for her? Meanwhile K wonders whether he should confess his own unrequited love for Sumire.<br /><br />Then, a desperate Miu calls from a small Greek island: Sumire has mysteriously vanished...",
+                "authors": {
+                    "author": {
+                        "id": "3354",
+                        "name": "Haruki Murakami",
+                        "role": [],
+                        "image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+                        },
+                        "small_image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+                        "average_rating": "3.95",
+                        "ratings_count": "1734542",
+                        "text_reviews_count": "125016"
+                    }
+                },
+                "published": "2002",
+                "work": {
+                    "id": "1813695",
+                    "uri": "kca://work/amzn1.gr.work.v1.rXj0b8NsIFpQgARX9yFbFQ"
+                }
+                },
+                {
+                "id": 17803,
+                "isbn": "0307265838",
+                "isbn13": "9780307265838",
+                "text_reviews_count": 3962,
+                "uri": "kca://book/amzn1.gr.book.v1.cgIZ4iIxRcaVMGfMDan_8Q",
+                "title": "After Dark",
+                "title_without_series": "After Dark",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": [],
+                "link": "https://www.goodreads.com/book/show/17803.After_Dark",
+                "num_pages": "191",
+                "format": "Hardcover",
+                "edition_information": [],
+                "publisher": "Knopf Publishing Group",
+                "publication_day": "8",
+                "publication_year": "2007",
+                "publication_month": "5",
+                "average_rating": "3.68",
+                "ratings_count": "84824",
+                "description": "A short, sleek novel of encounters set in Tokyo during the witching hours between midnight and dawn, and every bit as gripping as Haruki Murakami’s masterworks <i>The Wind-Up Bird Chronicle<\/i> and <i>Kafka on the Shore.<\/i><br /><br />At its center are two sisters—Eri, a fashion model slumbering her way into oblivion, and Mari, a young student soon led from solitary reading at an anonymous Denny’s toward people whose lives are radically alien to her own: a jazz trombonist who claims they’ve met before, a burly female “love hotel” manager and her maid staff, and a Chinese prostitute savagely brutalized by a businessman. These “night people” are haunted by secrets and needs that draw them together more powerfully than the differing circumstances that might keep them apart, and it soon becomes clear that Eri’s slumber—mysteriously tied to the businessman plagued by the mark of his crime—will either restore or annihilate her.<br /><i><br />After Dark <\/i>moves from mesmerizing drama to metaphysical speculation, interweaving time and space as well as memory and perspective into a seamless exploration of human agency—the interplay between self-expression and empathy, between the power of observation and the scope of compassion and love. Murakami’s trademark humor, psychological insight, and grasp of spirit and morality are here distilled with an extraordinary, harmonious mastery.",
+                "authors": {
+                    "author": {
+                        "id": "3354",
+                        "name": "Haruki Murakami",
+                        "role": [],
+                        "image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+                        },
+                        "small_image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+                        "average_rating": "3.95",
+                        "ratings_count": "1734542",
+                        "text_reviews_count": "125016"
+                    }
+                },
+                "published": "2007",
+                "work": {
+                    "id": "3070852",
+                    "uri": "kca://work/amzn1.gr.work.v1.6CgWkpZHkblSBjdlyYIm8g"
+                }
+                },
+                {
+                "id": 11298,
+                "isbn": "037571894X",
+                "isbn13": "9780375718946",
+                "text_reviews_count": 2631,
+                "uri": "kca://book/amzn1.gr.book.v1.3a9iqYvBPitMU4vNShr01Q",
+                "title": "A Wild Sheep Chase (The Rat, #3)",
+                "title_without_series": "A Wild Sheep Chase",
+                "image_url": "https://images.gr-assets.com/books/1327908774m/11298.jpg",
+                "small_image_url": "https://images.gr-assets.com/books/1327908774s/11298.jpg",
+                "large_image_url": [],
+                "link": "https://www.goodreads.com/book/show/11298.A_Wild_Sheep_Chase",
+                "num_pages": "353",
+                "format": "Paperback",
+                "edition_information": [],
+                "publisher": "Vintage",
+                "publication_day": "9",
+                "publication_year": "2002",
+                "publication_month": "4",
+                "average_rating": "3.94",
+                "ratings_count": "70139",
+                "description": "A marvelous hybrid of mythology and mystery, <b>A Wild Sheep Chase<\/b><i> <\/i>is the extraordinary literary thriller that launched Haruki Murakami’s international reputation. <br /><br />It begins simply enough: A twenty-something advertising executive receives a postcard from a friend, and casually appropriates the image for an insurance company’s advertisement. What he doesn’t realize is that included in the pastoral scene is a mutant sheep with a star on its back, and in using this photo he has unwittingly captured the attention of a man in black who offers a menacing ultimatum: find the sheep or face dire consequences. Thus begins a surreal and elaborate quest that takes our hero from the urban haunts of Tokyo to the remote and snowy mountains of northern Japan, where he confronts not only the mythological sheep, but the confines of tradition and the demons deep within himself. Quirky and utterly captivating, <b>A Wild Sheep Chase <\/b>is Murakami at his astounding best.",
+                "authors": {
+                    "author": {
+                        "id": "3354",
+                        "name": "Haruki Murakami",
+                        "role": [],
+                        "image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+                        },
+                        "small_image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+                        "average_rating": "3.95",
+                        "ratings_count": "1734542",
+                        "text_reviews_count": "125016"
+                    }
+                },
+                "published": "2002",
+                "work": {
+                    "id": "2057170",
+                    "uri": "kca://work/amzn1.gr.work.v1.kGelKzBVc5CrA9JcvHLu9Q"
+                }
+                },
+                {
+                "id": 2195464,
+                "isbn": "0307269191",
+                "isbn13": "9780307269195",
+                "text_reviews_count": 4999,
+                "uri": "kca://book/amzn1.gr.book.v1.G7pkz8X5nXtwCmQOqqGPsQ",
+                "title": "What I Talk About When I Talk About Running",
+                "title_without_series": "What I Talk About When I Talk About Running",
+                "image_url": "https://images.gr-assets.com/books/1473397159m/2195464.jpg",
+                "small_image_url": "https://images.gr-assets.com/books/1473397159s/2195464.jpg",
+                "large_image_url": [],
+                "link": "https://www.goodreads.com/book/show/2195464.What_I_Talk_About_When_I_Talk_About_Running",
+                "num_pages": "188",
+                "format": "Hardcover",
+                "edition_information": [],
+                "publisher": "Knopf Publishing Group",
+                "publication_day": "29",
+                "publication_year": "2008",
+                "publication_month": "7",
+                "average_rating": "3.81",
+                "ratings_count": "72467",
+                "description": "In 1982, having sold his jazz bar to devote himself to writing, Murakami began running to keep fit. A year later, he'd completed a solo course from Athens to Marathon, and now, after dozens of such races, not to mention triathlons and a dozen critically acclaimed books, he reflects upon the influence the sport has had on his life and--even more important--on his writing. Equal parts training log, travelogue, and reminiscence, this revealing memoir covers his four-month preparation for the 2005 New York City Marathon and takes us to places ranging from Tokyo's Jingu Gaien gardens, where he once shared the course with an Olympian, to the Charles River in Boston among young women who outpace him. Through this marvelous lens of sport emerges a panorama of memories and insights: the eureka moment when he decided to become a writer, his greatest triumphs and disappointments, his passion for vintage LPs, and the experience, after fifty, of seeing his race times improve and then fall back. By turns funny and sobering, playful and philosophical, What I Talk About When I Talk About Running is rich and revelatory, both for fans of this masterful yet guardedly private writer and for the exploding population of athletes who find similar satisfaction in distance running.\"",
+                "authors": {
+                    "author": {
+                        "id": "3354",
+                        "name": "Haruki Murakami",
+                        "role": [],
+                        "image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+                        },
+                        "small_image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+                        "average_rating": "3.95",
+                        "ratings_count": "1734542",
+                        "text_reviews_count": "125016"
+                    }
+                },
+                "published": "2008",
+                "work": {
+                    "id": "2475030",
+                    "uri": "kca://work/amzn1.gr.work.v1.rfmP8kRAFedmJ33PEuUmFg"
+                }
+                },
+                {
+                "id": 17799,
+                "isbn": "0099448572",
+                "isbn13": "9780099448570",
+                "text_reviews_count": 2222,
+                "uri": "kca://book/amzn1.gr.book.v1.TcQQ_GwuX0B_yk2zmuI97w",
+                "title": "South of the Border, West of the Sun",
+                "title_without_series": "South of the Border, West of the Sun",
+                "image_url": "https://images.gr-assets.com/books/1443685506m/17799.jpg",
+                "small_image_url": "https://images.gr-assets.com/books/1443685506s/17799.jpg",
+                "large_image_url": [],
+                "link": "https://www.goodreads.com/book/show/17799.South_of_the_Border_West_of_the_Sun",
+                "num_pages": "190",
+                "format": "Paperback",
+                "edition_information": [],
+                "publisher": "Vintage",
+                "publication_day": "1",
+                "publication_year": "2006",
+                "publication_month": "12",
+                "average_rating": "3.86",
+                "ratings_count": "66886",
+                "description": "<i>Alternate cover edition <a href=\"https://www.goodreads.com/book/show/15840207-south-of-the-border-west-of-the-sun\" rel=\"nofollow\">here<\/a>.<\/i><br /><br />Growing up in the suburbs of post-war Japan, it seemed to Hajime that everyone but him had brothers and sisters. His sole companion was Shimamoto, also an only child. Together they spent long afternoons listening to her father's record collection. But when his family moved away, the two lost touch. Now Hajime is in his thirties. After a decade of drifting he has found happiness with his loving wife and two daughters, and success running a jazz bar. Then Shimamoto reappears. She is beautiful, intense, enveloped in mystery. Hajime is catapulted into the past, putting at risk all he has in the present.",
+                "authors": {
+                    "author": {
+                        "id": "3354",
+                        "name": "Haruki Murakami",
+                        "role": [],
+                        "image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+                        },
+                        "small_image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+                        "average_rating": "3.95",
+                        "ratings_count": "1734542",
+                        "text_reviews_count": "125016"
+                    }
+                },
+                "published": "2006",
+                "work": {
+                    "id": "1739145",
+                    "uri": "kca://work/amzn1.gr.work.v1.ZdVL5F5OMuZLEiJLhsnECw"
+                }
+                },
+                {
+                "id": 17800,
+                "isbn": "0099448769",
+                "isbn13": "9780099448761",
+                "text_reviews_count": 1818,
+                "uri": "kca://book/amzn1.gr.book.v1._tsm3rKtQIgUzubHcUr1fw",
+                "title": "Dance Dance Dance (The Rat, #4)",
+                "title_without_series": "Dance Dance Dance",
+                "image_url": "https://images.gr-assets.com/books/1514582521m/17800.jpg",
+                "small_image_url": "https://images.gr-assets.com/books/1514582521s/17800.jpg",
+                "large_image_url": [],
+                "link": "https://www.goodreads.com/book/show/17800.Dance_Dance_Dance",
+                "num_pages": "393",
+                "format": "Paperback",
+                "edition_information": [],
+                "publisher": "Vintage",
+                "publication_day": "7",
+                "publication_year": "2002",
+                "publication_month": "2",
+                "average_rating": "4.03",
+                "ratings_count": "53171",
+                "description": "<i>Alternate cover edition <a href=\"https://www.goodreads.com/book/show/23687785-dance-dance-dance\" rel=\"nofollow\">here<\/a>.<\/i><br /><br />High-class call girls billed to Mastercard. A psychic 13-year-old dropout with a passion for Talking Heads. A hunky matinee idol doomed to play dentists and teachers. A one-armed beach-combing poet, an uptight hotel clerk and one very bemused narrator caught in the web of advanced capitalist mayhem. Combine this offbeat cast of characters with Murakami's idiosyncratic prose and out comes <i>Dance Dance Dance<\/i>.",
+                "authors": {
+                    "author": {
+                        "id": "3354",
+                        "name": "Haruki Murakami",
+                        "role": [],
+                        "image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+                        },
+                        "small_image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+                        "average_rating": "3.95",
+                        "ratings_count": "1734542",
+                        "text_reviews_count": "125016"
+                    }
+                },
+                "published": "2002",
+                "work": {
+                    "id": "2753173",
+                    "uri": "kca://work/amzn1.gr.work.v1.2PA6E4dPO4q4om_sx9g35Q"
+                }
+                },
+                {
+                "id": 6443834,
+                "isbn": "4103534222",
+                "isbn13": "9784103534228",
+                "text_reviews_count": 912,
+                "uri": "kca://book/amzn1.gr.book.v1.nf_WIchd9XqHBm9KhiQIMg",
+                "title": "1Q84 (1Q84, #1)",
+                "title_without_series": "1Q84",
+                "image_url": "https://images.gr-assets.com/books/1329955413m/6443834.jpg",
+                "small_image_url": "https://images.gr-assets.com/books/1329955413s/6443834.jpg",
+                "large_image_url": [],
+                "link": "https://www.goodreads.com/book/show/6443834-1q84",
+                "num_pages": [],
+                "format": "Paperback",
+                "edition_information": [],
+                "publisher": "Shinchosha/Tsai Fong Books",
+                "publication_day": "1",
+                "publication_year": "2009",
+                "publication_month": "5",
+                "average_rating": "3.97",
+                "ratings_count": "39637",
+                "description": "1949年にジョージ・オーウェルは、近未来小説としての『1984』を刊行した。<br />そして2009年、『1Q84』は逆の方向から1984年を描いた近過去小説である。<br />そこに描かれているのは「こうであったかもしれない」世界なのだ。<br />私たちが生きている現在が、「そうではなかったかもしれない」世界であるのと、ちょうど同じように。",
+                "authors": {
+                    "author": {
+                        "id": "3354",
+                        "name": "Haruki Murakami",
+                        "role": [],
+                        "image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+                        },
+                        "small_image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+                        "average_rating": "3.95",
+                        "ratings_count": "1734542",
+                        "text_reviews_count": "125016"
+                    }
+                },
+                "published": "2009",
+                "work": {
+                    "id": "18525442",
+                    "uri": "kca://work/amzn1.gr.work.v1.vJpKnRaZpoYkhnBKh0EW8w"
+                }
+                },
+                {
+                "id": 9555,
+                "isbn": "0679750533",
+                "isbn13": "9780679750536",
+                "text_reviews_count": 1333,
+                "uri": "kca://book/amzn1.gr.book.v1.lNR-9fDgpQbMTF-QBcJVsA",
+                "title": "The Elephant Vanishes",
+                "title_without_series": "The Elephant Vanishes",
+                "image_url": "https://images.gr-assets.com/books/1515635357m/9555.jpg",
+                "small_image_url": "https://images.gr-assets.com/books/1515635357s/9555.jpg",
+                "large_image_url": [],
+                "link": "https://www.goodreads.com/book/show/9555.The_Elephant_Vanishes",
+                "num_pages": "327",
+                "format": "Paperback",
+                "edition_information": [],
+                "publisher": "Vintage",
+                "publication_day": "28",
+                "publication_year": "1994",
+                "publication_month": "6",
+                "average_rating": "3.88",
+                "ratings_count": "30522",
+                "description": "With the same deadpan mania and genius for dislocation that he brought to his internationally acclaimed novels <i>A Wild Sheep Chase<\/i> and <i>Hard-Boiled Wonderland and the End of the World<\/i>, Haruki Murakami makes this collection of stories a determined assault on the normal. A man sees his favorite elephant vanish into thin air; a newlywed couple suffers attacks of hunger that drive them to hold up a McDonald's in the middle of the night; and a young woman discovers that she has become irresistible to a little green monster who burrows up through her backyard.<br /><br />By turns haunting and hilarious, <i>The Elephant Vanishes<\/i> is further proof of Murakami's ability to cross the border between separate realities -- and to come back bearing treasure.",
+                "authors": {
+                    "author": {
+                        "id": "3354",
+                        "name": "Haruki Murakami",
+                        "role": [],
+                        "image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+                        },
+                        "small_image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+                        "average_rating": "3.95",
+                        "ratings_count": "1734542",
+                        "text_reviews_count": "125016"
+                    }
+                },
+                "published": "1994",
+                "work": {
+                    "id": "693417",
+                    "uri": "kca://work/amzn1.gr.work.v1.bzz60AGmnLyT16DMIx7dFw"
+                }
+                },
+                {
+                "id": 11299,
+                "isbn": "0375713271",
+                "isbn13": "9780375713279",
+                "text_reviews_count": 1485,
+                "uri": "kca://book/amzn1.gr.book.v1.-r8o1d2BzCyECcYVZpOcYA",
+                "title": "After the Quake",
+                "title_without_series": "After the Quake",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": [],
+                "link": "https://www.goodreads.com/book/show/11299.After_the_Quake",
+                "num_pages": "147",
+                "format": "Paperback",
+                "edition_information": "(reprint)",
+                "publisher": "Vintage",
+                "publication_day": "13",
+                "publication_year": "2003",
+                "publication_month": "5",
+                "average_rating": "3.78",
+                "ratings_count": "30442",
+                "description": "The six stories in Haruki Murakami’s mesmerizing collection are set at the time of the catastrophic 1995 Kobe earthquake, when Japan became brutally aware of the fragility of its daily existence. But the upheavals that afflict Murakami’s characters are even deeper and more mysterious, emanating from a place where the human meets the inhuman. <br /><br />An electronics salesman who has been abruptly deserted by his wife agrees to deliver an enigmatic package—and is rewarded with a glimpse of his true nature. A man who has been raised to view himself as the son of God pursues a stranger who may or may not be his human father. A mild-mannered collection agent receives a visit from a giant talking frog who enlists his help in saving Tokyo from destruction. As haunting as dreams, as potent as oracles, the stories in<i> <\/i><b>After the Quake<\/b> are further proof that Murakami is one of the most visionary writers at work today.",
+                "authors": {
+                    "author": {
+                        "id": "3354",
+                        "name": "Haruki Murakami",
+                        "role": [],
+                        "image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+                        },
+                        "small_image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+                        "average_rating": "3.95",
+                        "ratings_count": "1734542",
+                        "text_reviews_count": "125016"
+                    }
+                },
+                "published": "2003",
+                "work": {
+                    "id": "6179815",
+                    "uri": "kca://work/amzn1.gr.work.v1.6lCeC1fUUNytdcM251YAWg"
+                }
+                },
+                {
+                "id": 23128304,
+                "isbn": "0385354304",
+                "isbn13": "9780385354301",
+                "text_reviews_count": 3115,
+                "uri": "kca://book/amzn1.gr.book.v1.W4X1GAIZT0en8qXYAZpkpw",
+                "title": "The Strange Library",
+                "title_without_series": "The Strange Library",
+                "image_url": "https://images.gr-assets.com/books/1419549475m/23128304.jpg",
+                "small_image_url": "https://images.gr-assets.com/books/1419549475s/23128304.jpg",
+                "large_image_url": [],
+                "link": "https://www.goodreads.com/book/show/23128304-the-strange-library",
+                "num_pages": "96",
+                "format": "Paperback",
+                "edition_information": [],
+                "publisher": "Knopf",
+                "publication_day": "2",
+                "publication_year": "2014",
+                "publication_month": "12",
+                "average_rating": "3.55",
+                "ratings_count": "29264",
+                "description": "<b>From internationally acclaimed author Haruki Murakami—a fantastical illustrated short novel about a boy imprisoned in a nightmarish library.<\/b><br /><b>  <\/b><br /> Opening the flaps on this unique little book, readers will find themselves immersed in the strange world of best-selling Haruki Murakami's wild imagination. The story of a lonely boy, a mysterious girl, and a tormented sheep man plotting their escape from a nightmarish library, the book is like nothing else Murakami has written. Designed by Chip Kidd and fully illustrated, in full color, throughout, this small format, 96 page volume is a treat for book lovers of all ages.",
+                "authors": {
+                    "author": {
+                        "id": "3354",
+                        "name": "Haruki Murakami",
+                        "role": [],
+                        "image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+                        },
+                        "small_image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+                        "average_rating": "3.95",
+                        "ratings_count": "1734542",
+                        "text_reviews_count": "125016"
+                    }
+                },
+                "published": "2014",
+                "work": {
+                    "id": "42676389",
+                    "uri": "kca://work/amzn1.gr.work.v1.0Vm_ODYpvmEXGRKxnAx2_Q"
+                }
+                },
+                {
+                "id": 9833,
+                "isbn": "1400044618",
+                "isbn13": "9781400044610",
+                "text_reviews_count": 1173,
+                "uri": "kca://book/amzn1.gr.book.v1.-KX91v3DVQX9q1oOUg6O0Q",
+                "title": "Blind Willow, Sleeping Woman",
+                "title_without_series": "Blind Willow, Sleeping Woman",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": [],
+                "link": "https://www.goodreads.com/book/show/9833.Blind_Willow_Sleeping_Woman",
+                "num_pages": "333",
+                "format": "Hardcover",
+                "edition_information": [],
+                "publisher": "Alfred A. Knopf",
+                "publication_day": "29",
+                "publication_year": "2006",
+                "publication_month": "8",
+                "average_rating": "3.83",
+                "ratings_count": "25778",
+                "description": "Collection of twenty-four stories that generously expresses Murakami’s mastery of the form. From the surreal to the mundane, these stories exhibit his ability to transform the full range of human experience in ways that are instructive, surprising, and relentlessly entertaining. Here are animated crows, a criminal monkey, and an iceman, as well as the dreams that shape us and the things we might wish for. Whether during a chance reunion in Italy, a romantic exile in Greece, a holiday in Hawaii, or in the grip of everyday life, Murakami’s characters confront grievous loss, or sexuality, or the glow of a firefly, or the impossible distances between those who ought to be closest of all.",
+                "authors": {
+                    "author": {
+                        "id": "3354",
+                        "name": "Haruki Murakami",
+                        "role": [],
+                        "image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+                        },
+                        "small_image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+                        "average_rating": "3.95",
+                        "ratings_count": "1734542",
+                        "text_reviews_count": "125016"
+                    }
+                },
+                "published": "2006",
+                "work": {
+                    "id": "1468406",
+                    "uri": "kca://work/amzn1.gr.work.v1.GzKCNP2g6tpERWXgfS1Z2w"
+                }
+                },
+                {
+                "id": 25084093,
+                "isbn": "6074216681",
+                "isbn13": "9786074216684",
+                "text_reviews_count": 267,
+                "uri": "kca://book/amzn1.gr.book.v1.ismyOqIOjg5oJd1Y2tJOhQ",
+                "title": "Hombres sin mujeres",
+                "title_without_series": "Hombres sin mujeres",
+                "image_url": "https://images.gr-assets.com/books/1425695854m/25084093.jpg",
+                "small_image_url": "https://images.gr-assets.com/books/1425695854s/25084093.jpg",
+                "large_image_url": [],
+                "link": "https://www.goodreads.com/book/show/25084093-hombres-sin-mujeres",
+                "num_pages": "267",
+                "format": "Paperback",
+                "edition_information": [],
+                "publisher": "Tusquets Editores",
+                "publication_day": "3",
+                "publication_year": "2015",
+                "publication_month": "3",
+                "average_rating": "3.77",
+                "ratings_count": "21671",
+                "description": "Haruki Murakami ofrece a los lectores siete relatos en torno al aislamiento y la soledad que preceden o siguen a la relación amorosa: hombres que han perdido a una mujer, o cuya relación ha estado marcada por el desencuentro, asisten inermes al regreso de los fantasmas del pasado, viven el enamoramiento como una enfermedad letal, son incapaces de establecer una comunicación plena con la pareja, o ven extrañamente interrumpida su historia de amor. Otros experimentan atormentados amores no correspondidos o, incluso, como en el relato protagonizado por una metamorfosis kafkiana, desconocen todavía los mecanismos del afecto y del sexo. Sin embargo, las verdaderas protagonistas de estos relatos —llenos de guiños a los Beatles, el jazz, Kafka, Las mil y una noches o, en el caso del título, Hemingway—, son ellas, las mujeres, que, misteriosas, irrumpen en la vida de los hombres para desaparecer, dejando una huella imborrable en la vida de aquellos que las han amado, o de los que, al menos, intentaron amarlas.",
+                "authors": {
+                    "author": {
+                        "id": "3354",
+                        "name": "Haruki Murakami",
+                        "role": [],
+                        "image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+                        },
+                        "small_image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+                        "average_rating": "3.95",
+                        "ratings_count": "1734542",
+                        "text_reviews_count": "125016"
+                    }
+                },
+                "published": "2015",
+                "work": {
+                    "id": "43247031",
+                    "uri": "kca://work/amzn1.gr.work.v1.5uvJFtPhmb3QtavU1sy15Q"
+                }
+                },
+                {
+                "id": 7717482,
+                "isbn": "4103534257",
+                "isbn13": "9784103534259",
+                "text_reviews_count": 700,
+                "uri": "kca://book/amzn1.gr.book.v1.RUIzWPQf59FIT6ajEBd11g",
+                "title": "1Q84 BOOK 3 (1Q84, #3)",
+                "title_without_series": "1Q84 BOOK 3",
+                "image_url": "https://images.gr-assets.com/books/1327559269m/7717482.jpg",
+                "small_image_url": "https://images.gr-assets.com/books/1327559269s/7717482.jpg",
+                "large_image_url": [],
+                "link": "https://www.goodreads.com/book/show/7717482-1q84-book-3",
+                "num_pages": "602",
+                "format": "Hardcover",
+                "edition_information": [],
+                "publisher": "新潮社",
+                "publication_day": "16",
+                "publication_year": "2010",
+                "publication_month": "4",
+                "average_rating": "3.87",
+                "ratings_count": "19732",
+                "description": "1949年にジョージ・オーウェルは、近未来小説としての『1984』を刊行した。<br /><br />そして2009年、『1Q84』は逆の方向から1984年を描いた近過去小説である。<br /><br />そこに描かれているのは「こうであったかもしれない」世界なのだ。<br /><br />私たちが生きている現在が、「そうではなかったかもしれない」世界であるのと、ちょうど同じように。",
+                "authors": {
+                    "author": {
+                        "id": "3354",
+                        "name": "Haruki Murakami",
+                        "role": [],
+                        "image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+                        },
+                        "small_image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+                        "average_rating": "3.95",
+                        "ratings_count": "1734542",
+                        "text_reviews_count": "125016"
+                    }
+                },
+                "published": "2010",
+                "work": {
+                    "id": "44805656",
+                    "uri": "kca://work/amzn1.gr.work.v1.uvOLcgh2hIn-7-YUXoVt6g"
+                }
+                },
+                {
+                "id": 6449422,
+                "isbn": "4103534230",
+                "isbn13": "9784103534235",
+                "text_reviews_count": 457,
+                "uri": "kca://book/amzn1.gr.book.v1.IgLGqzCAQimMtRSK7LL3Hg",
+                "title": "1Q84 BOOK 2 (1Q84, #2)",
+                "title_without_series": "1Q84 BOOK 2",
+                "image_url": "https://images.gr-assets.com/books/1329955515m/6449422.jpg",
+                "small_image_url": "https://images.gr-assets.com/books/1329955515s/6449422.jpg",
+                "large_image_url": [],
+                "link": "https://www.goodreads.com/book/show/6449422-1q84-book-2",
+                "num_pages": [],
+                "format": "Hardcover",
+                "edition_information": [],
+                "publisher": "Shinchosha/Tsai Fong Books",
+                "publication_day": "1",
+                "publication_year": "2009",
+                "publication_month": "5",
+                "average_rating": "4.05",
+                "ratings_count": "14536",
+                "description": "1949年にジョージ・オーウェルは、近未来小説としての『1984』を刊行した。<br />そして2009年、『1Q84』は逆の方向から1984年を描いた近過去小説である。<br />そこに描かれているのは「こうであったかもしれない」世界なのだ。<br />私たちが生きている現在が、「そうではなかったかもしれない」世界であるのと、ちょうど同じように。",
+                "authors": {
+                    "author": {
+                        "id": "3354",
+                        "name": "Haruki Murakami",
+                        "role": [],
+                        "image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+                        },
+                        "small_image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+                        "average_rating": "3.95",
+                        "ratings_count": "1734542",
+                        "text_reviews_count": "125016"
+                    }
+                },
+                "published": "2009",
+                "work": {
+                    "id": "44798125",
+                    "uri": "kca://work/amzn1.gr.work.v1.9RBgBnSQVDlu4nmp5HTHqA"
+                }
+                },
+                {
+                "id": 12254379,
+                "isbn": {
+                    "@nil": "true"
+                },
+                "isbn13": {
+                    "@nil": "true"
+                },
+                "text_reviews_count": 637,
+                "uri": "kca://book/amzn1.gr.book.v1.u3K08SEk4LX_PDjH1lpDvQ",
+                "title": "1Q84 #1-2 (1Q84, #1-2)",
+                "title_without_series": "1Q84 #1-2",
+                "image_url": "https://images.gr-assets.com/books/1327925087m/12254379.jpg",
+                "small_image_url": "https://images.gr-assets.com/books/1327925087s/12254379.jpg",
+                "large_image_url": [],
+                "link": "https://www.goodreads.com/book/show/12254379-1q84-1-2",
+                "num_pages": "628",
+                "format": [],
+                "edition_information": [],
+                "publisher": "Vintage Digital",
+                "publication_day": "18",
+                "publication_year": "2011",
+                "publication_month": "10",
+                "average_rating": "4.07",
+                "ratings_count": "14316",
+                "description": "The year is 1984 and the city is Tokyo.<br /><br />A young woman named Aomame follows a taxi driver’s enigmatic suggestion and begins to notice puzzling discrepancies in the world around her. She has entered, she realizes, a parallel existence, which she calls 1Q84 —“Q is for ‘question mark.’ A world that bears a question.” Meanwhile, an aspiring writer named Tengo takes on a suspect ghostwriting project. He becomes so wrapped up with the work and its unusual author that, soon, his previously placid life begins to come unraveled. <br /><br />A love story, a mystery, a fantasy, a novel of self-discovery, a dystopia to rival George Orwell’s—1Q84 is Haruki Murakami’s most ambitious undertaking yet: an instant best seller in his native Japan, and a tremendous feat of imagination from one of our most revered contemporary writers",
+                "authors": {
+                    "author": {
+                        "id": "3354",
+                        "name": "Haruki Murakami",
+                        "role": [],
+                        "image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+                        },
+                        "small_image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+                        "average_rating": "3.95",
+                        "ratings_count": "1734542",
+                        "text_reviews_count": "125016"
+                    }
+                },
+                "published": "2011",
+                "work": {
+                    "id": "18525322",
+                    "uri": "kca://work/amzn1.gr.work.v1.LIXEcQS-P7ALIouzZHRSnA"
+                }
+                },
+                {
+                "id": 17801,
+                "isbn": "0099461099",
+                "isbn13": "9780099461098",
+                "text_reviews_count": 555,
+                "uri": "kca://book/amzn1.gr.book.v1.pbLQjdXh3PlBVy5F69WXrA",
+                "title": "Underground: The Tokyo Gas Attack and the Japanese Psyche",
+                "title_without_series": "Underground: The Tokyo Gas Attack and the Japanese Psyche",
+                "image_url": "https://images.gr-assets.com/books/1443692668m/17801.jpg",
+                "small_image_url": "https://images.gr-assets.com/books/1443692668s/17801.jpg",
+                "large_image_url": [],
+                "link": "https://www.goodreads.com/book/show/17801.Underground",
+                "num_pages": "309",
+                "format": "Paperback",
+                "edition_information": [],
+                "publisher": "Vintage",
+                "publication_day": [],
+                "publication_year": "2003",
+                "publication_month": [],
+                "average_rating": "3.89",
+                "ratings_count": "11678",
+                "description": "<i>Alternate cover edition <a href=\"https://www.goodreads.com/book/show/26845522-underground\" rel=\"nofollow\">here<\/a>.<\/i><br /><br />In spite of the perpetrators' intentions, the Tokyo gas attack left only twelve people dead, but thousands were injured and many suffered serious after-effects. Murakami interviews the victims to try and establish precisely what happened on the subway that day. He also interviews members and ex-members of the doomsdays cult responsible, in the hope that they might be able to explain the reason for the attack and how it was that their guru instilled such devotion in his followers.",
+                "authors": {
+                    "author": {
+                        "id": "3354",
+                        "name": "Haruki Murakami",
+                        "role": [],
+                        "image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+                        },
+                        "small_image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+                        "average_rating": "3.95",
+                        "ratings_count": "1734542",
+                        "text_reviews_count": "125016"
+                    }
+                },
+                "published": "2003",
+                "work": {
+                    "id": "6179816",
+                    "uri": "kca://work/amzn1.gr.work.v1.q65-BLGTuZ6K9URLYovfcg"
+                }
+                },
+                {
+                "id": 24013720,
+                "isbn": "0385352123",
+                "isbn13": "9780385352123",
+                "text_reviews_count": 845,
+                "uri": "kca://book/amzn1.gr.book.v1.zHoGMfWXOfAOG3-DBrRWhg",
+                "title": "Wind/Pinball: Two Novels",
+                "title_without_series": "Wind/Pinball: Two Novels",
+                "image_url": "https://images.gr-assets.com/books/1439382798m/24013720.jpg",
+                "small_image_url": "https://images.gr-assets.com/books/1439382798s/24013720.jpg",
+                "large_image_url": [],
+                "link": "https://www.goodreads.com/book/show/24013720-wind-pinball",
+                "num_pages": "234",
+                "format": "Hardcover",
+                "edition_information": [],
+                "publisher": "Knopf",
+                "publication_day": "4",
+                "publication_year": "2015",
+                "publication_month": "8",
+                "average_rating": "3.54",
+                "ratings_count": "12738",
+                "description": "The debut short novels--nearly thirty years out of print-- by the internationally acclaimed writer, newly retranslated and in one English-language volume for the first time, with a new introduction by the author.<br /><br />These first major works of fiction by Haruki Murakami center on two young men--an unnamed narrator and his friend and former roommate, the Rat. Powerful, at times surreal, stories of loneliness, obsession, and eroticism, these novellas bear all the hallmarks of Murakami's later books, giving us a fascinating insight into a great writer's beginnings, and are remarkable works of fiction in their own right. Here too is an exclusive essay by Murakami in which he explores and explains his decision to become a writer. Prequels to the much-beloved classics A Wild Sheep Chase and Dance Dance Dance, these early works are essential reading for Murakami completists and contemporary fiction lovers alike.",
+                "authors": {
+                    "author": {
+                        "id": "3354",
+                        "name": "Haruki Murakami",
+                        "role": [],
+                        "image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+                        },
+                        "small_image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+                        "average_rating": "3.95",
+                        "ratings_count": "1734542",
+                        "text_reviews_count": "125016"
+                    }
+                },
+                "published": "2015",
+                "work": {
+                    "id": "18976038",
+                    "uri": "kca://work/amzn1.gr.work.v1.5QmSVb54s0H1D-_aI9BCqA"
+                }
+                },
+                {
+                "id": 226973,
+                "isbn": "4061860267",
+                "isbn13": "9784061860261",
+                "text_reviews_count": 647,
+                "uri": "kca://book/amzn1.gr.book.v1.BFYuypvcaM8HBtpVfYhhBw",
+                "title": "Hear the Wind Sing (The Rat, #1)",
+                "title_without_series": "Hear the Wind Sing",
+                "image_url": "https://images.gr-assets.com/books/1209948233m/226973.jpg",
+                "small_image_url": "https://images.gr-assets.com/books/1209948233s/226973.jpg",
+                "large_image_url": [],
+                "link": "https://www.goodreads.com/book/show/226973.Hear_the_Wind_Sing",
+                "num_pages": "130",
+                "format": "Paperback",
+                "edition_information": [],
+                "publisher": "Kodansha International Ltd.",
+                "publication_day": [],
+                "publication_year": "1979",
+                "publication_month": [],
+                "average_rating": "3.58",
+                "ratings_count": "10649",
+                "description": "Hear the Wind Sing is the first novel by Haruki Murakami; it first appeared in the June 1979 issue of Gunzo, one of the most influential literary magazines in Japan.<br /><br />It is the first of the \"boku\" tetralogy; translated by Alfred Birnbaum.",
+                "authors": {
+                    "author": {
+                        "id": "3354",
+                        "name": "Haruki Murakami",
+                        "role": [],
+                        "image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+                        },
+                        "small_image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+                        "average_rating": "3.95",
+                        "ratings_count": "1734542",
+                        "text_reviews_count": "125016"
+                    }
+                },
+                "published": "1979",
+                "work": {
+                    "id": "2902423",
+                    "uri": "kca://work/amzn1.gr.work.v1.vEaSyl6r_WrgiKRwSkT5ew"
+                }
+                },
+                {
+                "id": 6501635,
+                "isbn": {
+                    "@nil": "true"
+                },
+                "isbn13": {
+                    "@nil": "true"
+                },
+                "text_reviews_count": 197,
+                "uri": "kca://book/amzn1.gr.book.v1.InEweTPypwG5gD_vBTBVng",
+                "title": "Sleep",
+                "title_without_series": "Sleep",
+                "image_url": "https://images.gr-assets.com/books/1436622208m/6501635.jpg",
+                "small_image_url": "https://images.gr-assets.com/books/1436622208s/6501635.jpg",
+                "large_image_url": [],
+                "link": "https://www.goodreads.com/book/show/6501635-sleep",
+                "num_pages": "80",
+                "format": "Paperback",
+                "edition_information": [],
+                "publisher": [],
+                "publication_day": [],
+                "publication_year": [],
+                "publication_month": [],
+                "average_rating": "3.51",
+                "ratings_count": "7939",
+                "description": "Una donna attraversa la routine di giorni tutti uguali finché qualcosa di inaspettato irrompe nella sua vita: smette di dormire. Quello che all'inizio sembra un dono diventa la porta di accesso a una realtà segreta e inquietante.",
+                "authors": {
+                    "author": {
+                        "id": "3354",
+                        "name": "Haruki Murakami",
+                        "role": [],
+                        "image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+                        },
+                        "small_image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+                        "average_rating": "3.95",
+                        "ratings_count": "1734542",
+                        "text_reviews_count": "125016"
+                    }
+                },
+                "published": [],
+                "work": {
+                    "id": "7062179",
+                    "uri": "kca://work/amzn1.gr.work.v1.nBjMDa0nqGSU_6x119HKfA"
+                }
+                },
+                {
+                "id": 591978,
+                "isbn": "4061860127",
+                "isbn13": "9784061860124",
+                "text_reviews_count": 414,
+                "uri": "kca://book/amzn1.gr.book.v1.oTM8bscnpAZwkys9HpOt7Q",
+                "title": "Pinball, 1973 (The Rat, #2)",
+                "title_without_series": "Pinball, 1973",
+                "image_url": "https://images.gr-assets.com/books/1279373805m/591978.jpg",
+                "small_image_url": "https://images.gr-assets.com/books/1279373805s/591978.jpg",
+                "large_image_url": [],
+                "link": "https://www.goodreads.com/book/show/591978.Pinball_1973",
+                "num_pages": "215",
+                "format": "Paperback",
+                "edition_information": [],
+                "publisher": "Kodansha International Ltd.",
+                "publication_day": [],
+                "publication_year": "1980",
+                "publication_month": [],
+                "average_rating": "3.56",
+                "ratings_count": "7813",
+                "description": "The plot centers on the narrator's brief but intense obsession with pinball, his life as a freelance translator, and his later efforts to reunite with the old pinball machine that he used to play. He describes living with a pair of identical unnamed female twins, who mysteriously appear in his apartment one morning, and disappear at the end of the book. Interspersed with the narrative are his memories of the Japanese student movement, and of his old girlfriend Naoko. The plot alternates between describing the life of narrator and that of his friend, The Rat.",
+                "authors": {
+                    "author": {
+                        "id": "3354",
+                        "name": "Haruki Murakami",
+                        "role": [],
+                        "image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+                        },
+                        "small_image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+                        "average_rating": "3.95",
+                        "ratings_count": "1734542",
+                        "text_reviews_count": "125016"
+                    }
+                },
+                "published": "1980",
+                "work": {
+                    "id": "290859",
+                    "uri": "kca://work/amzn1.gr.work.v1.XHQoMnUEjuK8-WcPrGtqyw"
+                }
+                },
+                {
+                "id": 1477363,
+                "isbn": {
+                    "@nil": "true"
+                },
+                "isbn13": {
+                    "@nil": "true"
+                },
+                "text_reviews_count": 128,
+                "uri": "kca://book/amzn1.gr.book.v1.dqrt5SEusmXsk_RNEjVR4g",
+                "title": "On Seeing the 100% Perfect Girl on One Beautiful April Morning",
+                "title_without_series": "On Seeing the 100% Perfect Girl on One Beautiful April Morning",
+                "image_url": "https://images.gr-assets.com/books/1335681167m/1477363.jpg",
+                "small_image_url": "https://images.gr-assets.com/books/1335681167s/1477363.jpg",
+                "large_image_url": [],
+                "link": "https://www.goodreads.com/book/show/1477363.On_Seeing_the_100_Perfect_Girl_on_One_Beautiful_April_Morning",
+                "num_pages": [],
+                "format": [],
+                "edition_information": [],
+                "publisher": [],
+                "publication_day": "31",
+                "publication_year": "1993",
+                "publication_month": "3",
+                "average_rating": "3.80",
+                "ratings_count": "3885",
+                "description": "A short story by Haruki Murakami",
+                "authors": {
+                    "author": {
+                        "id": "3354",
+                        "name": "Haruki Murakami",
+                        "role": [],
+                        "image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+                        },
+                        "small_image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+                        "average_rating": "3.95",
+                        "ratings_count": "1734542",
+                        "text_reviews_count": "125016"
+                    }
+                },
+                "published": "1993",
+                "work": {
+                    "id": "2608298",
+                    "uri": "kca://work/amzn1.gr.work.v1.MqWarxeHKuQ-PRj5O9swmQ"
+                }
+                },
+                {
+                "id": 45301,
+                "isbn": "1843431599",
+                "isbn13": "9781843431596",
+                "text_reviews_count": 104,
+                "uri": "kca://book/amzn1.gr.book.v1.Cc2Zi8cuzrZgVvShRXBEmA",
+                "title": "Birthday Stories",
+                "title_without_series": "Birthday Stories",
+                "image_url": "https://images.gr-assets.com/books/1356143791m/45301.jpg",
+                "small_image_url": "https://images.gr-assets.com/books/1356143791s/45301.jpg",
+                "large_image_url": [],
+                "link": "https://www.goodreads.com/book/show/45301.Birthday_Stories",
+                "num_pages": "182",
+                "format": "Hardcover",
+                "edition_information": [],
+                "publisher": "Harvill Press",
+                "publication_day": "1",
+                "publication_year": "2004",
+                "publication_month": "1",
+                "average_rating": "3.55",
+                "ratings_count": "2516",
+                "description": "This is a collection of 12 birthday stories from some of the most distinguished authors of recent years. The stories have been selected and introduced by Haruki Murakami.",
+                "authors": {
+                    "author": {
+                        "id": "3354",
+                        "name": "Haruki Murakami",
+                        "role": "Introduction",
+                        "image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+                        },
+                        "small_image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+                        "average_rating": "3.95",
+                        "ratings_count": "1734542",
+                        "text_reviews_count": "125016"
+                    }
+                },
+                "published": "2004",
+                "work": {
+                    "id": "4391",
+                    "uri": "kca://work/amzn1.gr.work.v1.6d-s31FCMVS7_FKZL9ydxg"
+                }
+                },
+                {
+                "id": 28092838,
+                "isbn": "1846559197",
+                "isbn13": "9781846559198",
+                "text_reviews_count": 151,
+                "uri": "kca://book/amzn1.gr.book.v1.eWSuRn0ZY0cp0ZQTUV_xIA",
+                "title": "Absolutely on Music: Conversations with Seiji Ozawa",
+                "title_without_series": "Absolutely on Music: Conversations with Seiji Ozawa",
+                "image_url": "https://images.gr-assets.com/books/1482476628m/28092838.jpg",
+                "small_image_url": "https://images.gr-assets.com/books/1482476628s/28092838.jpg",
+                "large_image_url": [],
+                "link": "https://www.goodreads.com/book/show/28092838-absolutely-on-music",
+                "num_pages": "272",
+                "format": "Paperback",
+                "edition_information": [],
+                "publisher": "Harvill Secker",
+                "publication_day": "1",
+                "publication_year": "2016",
+                "publication_month": "9",
+                "average_rating": "3.86",
+                "ratings_count": "1794",
+                "description": "A deeply personal, intimate conversation about music and writing between the internationally acclaimed, best-selling author and his close friend, the former conductor of the Boston Symphony Orchestra.<br /><br />Haruki Murakami's passion for music runs deep. Before turning his hand to writing, he ran a jazz club in Tokyo, and from The Beatles' Norwegian Wood to Franz Liszt's Years of Pilgrimage, the aesthetic and emotional power of music permeates every one of his much-loved books. Now, in Absolutely on Music, Murakami fulfills a personal dream, sitting down with his friend, acclaimed conductor Seiji Ozawa, to talk, over a period of two years, about their shared interest. Transcribed from lengthy conversations about the nature of music and writing, here they discuss everything from Brahms to Beethoven, from Leonard Bernstein to Glenn Gould, from record collecting to pop-up orchestras, and much more. Ultimately this book gives readers an unprecedented glimpse into the minds of the two maestros. It is essential reading for book and music lovers everywhere.",
+                "authors": {
+                    "author": {
+                        "id": "3354",
+                        "name": "Haruki Murakami",
+                        "role": [],
+                        "image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+                        },
+                        "small_image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+                        "average_rating": "3.95",
+                        "ratings_count": "1734542",
+                        "text_reviews_count": "125016"
+                    }
+                },
+                "published": "2016",
+                "work": {
+                    "id": "48095356",
+                    "uri": "kca://work/amzn1.gr.work.v1.hrLHrlKQz51MiyEYZACofA"
+                }
+                },
+                {
+                "id": 26451815,
+                "isbn": "4884184432",
+                "isbn13": "9784884184438",
+                "text_reviews_count": 6,
+                "uri": "kca://book/amzn1.gr.book.v1.1dT6z24dMoIoklSt8x290A",
+                "title": "職業としての小説家",
+                "title_without_series": "職業としての小説家",
+                "image_url": "https://images.gr-assets.com/books/1442130109m/26451815.jpg",
+                "small_image_url": "https://images.gr-assets.com/books/1442130109s/26451815.jpg",
+                "large_image_url": [],
+                "link": "https://www.goodreads.com/book/show/26451815",
+                "num_pages": "341",
+                "format": "Hardcover",
+                "edition_information": "単行本",
+                "publisher": "Switch Publishing",
+                "publication_day": "10",
+                "publication_year": "2015",
+                "publication_month": "9",
+                "average_rating": "3.85",
+                "ratings_count": "1417",
+                "description": "いま、世界が渇望する稀有な作家──<br />村上春樹が考える、すべてのテーマが、ここにある。<br />自伝的なエピソードも豊かに、待望の長編エッセイが、遂に発刊！<br /><br />目次<br />第一回　小説家は寛容な人種なのか<br />第二回　小説家になった頃<br />第三回　文学賞について<br />第四回　オリジナリティーについて<br />第五回　さて、何を書けばいいのか？<br />第六回　時間を味方につける──長編小説を書くこと<br />第七回　どこまでも個人的でフィジカルな営み<br />第八回　学校について<br />第九回　どんな人物を登場させようか？<br />第十回　誰のために書くのか？<br />第十一回　海外へ出て行く。新しいフロンティア<br />第十二回　物語があるところ・河合隼雄先生の思い出<br />あとがき",
+                "authors": {
+                    "author": {
+                        "id": "3354",
+                        "name": "Haruki Murakami",
+                        "role": [],
+                        "image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+                        },
+                        "small_image_url": {
+                            "@nophoto": "false",
+                            "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+                        "average_rating": "3.95",
+                        "ratings_count": "1734542",
+                        "text_reviews_count": "125016"
+                    }
+                },
+                "published": "2015",
+                "work": {
+                    "id": "46456104",
+                    "uri": "kca://work/amzn1.gr.work.v1.c2IlRnnOooXe4AJA0gEXkQ"
+                }
+                },
+                {
+         "id": 33838780,
+         "isbn": "410353432X",
+         "isbn13": "9784103534327",
+         "text_reviews_count": 5,
+         "uri": "kca://book/amzn1.gr.book.v1.VecG8aO5BBm_ibn-Nnqvlg",
+         "title": "騎士団長殺し―第1部　顕れるイデア編",
+         "title_without_series": "騎士団長殺し―第1部　顕れるイデア編",
+         "image_url": "https://images.gr-assets.com/books/1487866249m/33838780.jpg",
+         "small_image_url": "https://images.gr-assets.com/books/1487866249s/33838780.jpg",
+         "large_image_url": [],
+         "link": "https://www.goodreads.com/book/show/33838780-1",
+         "num_pages": "512",
+         "format": "Hardcover",
+         "edition_information": [],
+         "publisher": "新潮社",
+         "publication_day": "24",
+         "publication_year": "2017",
+         "publication_month": "2",
+         "average_rating": "4.06",
+         "ratings_count": "1153",
+         "description": "その年の五月から翌年の初めにかけて、私は狭い谷間の入り口近くの、山の上に住んでいた。夏には谷の奥の方でひっきりなしに雨が降ったが、谷の外側はだいたい晴れていた……それは孤独で静謐な日々であるはずだった。騎士団長が顕（あらわ）れるまでは。",
+         "authors": {
+            "author": {
+               "id": "3354",
+               "name": "Haruki Murakami",
+               "role": [],
+               "image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+               },
+               "small_image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+               },
+               "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+               "average_rating": "3.95",
+               "ratings_count": "1734570",
+               "text_reviews_count": "125016"
+            }
+         },
+         "published": "2017",
+         "work": {
+            "id": "54771921",
+            "uri": "kca://work/amzn1.gr.work.v1.oHqExEG0aMyq1K219C-fow"
+         }
+      },
+      {
+         "id": 18693115,
+         "isbn": {
+            "@nil": "true"
+         },
+         "isbn13": {
+            "@nil": "true"
+         },
+         "text_reviews_count": 122,
+         "uri": "kca://book/amzn1.gr.book.v1.-ruceSRviTr3TJyCRvfjdQ",
+         "title": "Samsa in Love",
+         "title_without_series": "Samsa in Love",
+         "image_url": "https://images.gr-assets.com/books/1382357230m/18693115.jpg",
+         "small_image_url": "https://images.gr-assets.com/books/1382357230s/18693115.jpg",
+         "large_image_url": [],
+         "link": "https://www.goodreads.com/book/show/18693115-samsa-in-love",
+         "num_pages": "28",
+         "format": "ebook",
+         "edition_information": [],
+         "publisher": "„The New Yorker“",
+         "publication_day": "21",
+         "publication_year": "2013",
+         "publication_month": "10",
+         "average_rating": "3.53",
+         "ratings_count": "1275",
+         "description": "Samsa had no idea where he was, or what he should do. All he knew was that he was now a human whose name was Gregor Samsa. And how did he know that? Perhaps someone had whispered it in his ear while he lay sleeping? But who had he been before he became Gregor Samsa?",
+         "authors": {
+            "author": {
+               "id": "3354",
+               "name": "Haruki Murakami",
+               "role": [],
+               "image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+               },
+               "small_image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+               },
+               "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+               "average_rating": "3.95",
+               "ratings_count": "1734570",
+               "text_reviews_count": "125016"
+            }
+         },
+         "published": "2013",
+         "work": {
+            "id": "26541541",
+            "uri": "kca://work/amzn1.gr.work.v1.r788dgiM6iK9s7qRKGCU3Q"
+         }
+      },
+      {
+         "id": 16174656,
+         "isbn": "9025440541",
+         "isbn13": "9789025440541",
+         "text_reviews_count": 9,
+         "uri": "kca://book/amzn1.gr.book.v1.gXp4cBlHSn42QVRqxAO5QA",
+         "title": "De broodjesroofverhalen",
+         "title_without_series": "De broodjesroofverhalen",
+         "image_url": "https://images.gr-assets.com/books/1354030481m/16174656.jpg",
+         "small_image_url": "https://images.gr-assets.com/books/1354030481s/16174656.jpg",
+         "large_image_url": [],
+         "link": "https://www.goodreads.com/book/show/16174656-de-broodjesroofverhalen",
+         "num_pages": "80",
+         "format": "Paperback",
+         "edition_information": [],
+         "publisher": "Atlas Contact",
+         "publication_day": [],
+         "publication_year": "2012",
+         "publication_month": "11",
+         "average_rating": "3.45",
+         "ratings_count": "1278",
+         "description": "Twee vrienden stappen de deur uit om in de dichtstbijzijnde bakkerij met geweld hun honger te stillen. Maar ze hebben buiten de bakker gerekend. Deze stelt een ongewone ruiltransactie voor.<br /><br />De legendarische ‘broodjesroofverhalen’ van Haruki Murakami zijn een toonbeeld van surrealistische vertelkunst, doorspekt met de onnavolgbare humor van de bestsellerauteur. Nadat <i>Slaap<\/i> als beeldverhaal verscheen heeft Murakami zelf illustratrice Kat Menschik om een vervolg verzocht.",
+         "authors": {
+            "author": {
+               "id": "3354",
+               "name": "Haruki Murakami",
+               "role": [],
+               "image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+               },
+               "small_image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+               },
+               "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+               "average_rating": "3.95",
+               "ratings_count": "1734570",
+               "text_reviews_count": "125016"
+            }
+         },
+         "published": "2012",
+         "work": {
+            "id": "25630364",
+            "uri": "kca://work/amzn1.gr.work.v1.C09ZPTO54pzX9SdinDn4_Q"
+         }
+      },
+      {
+         "id": 333914,
+         "isbn": "0976047861",
+         "isbn13": "9780976047865",
+         "text_reviews_count": 57,
+         "uri": "kca://book/amzn1.gr.book.v1.BCv7ZzZfv7tPT36NHMP-Tw",
+         "title": "Tony Takitani",
+         "title_without_series": "Tony Takitani",
+         "image_url": "https://images.gr-assets.com/books/1415070540m/333914.jpg",
+         "small_image_url": "https://images.gr-assets.com/books/1415070540s/333914.jpg",
+         "large_image_url": [],
+         "link": "https://www.goodreads.com/book/show/333914.Tony_Takitani",
+         "num_pages": [],
+         "format": [],
+         "edition_information": [],
+         "publisher": [],
+         "publication_day": [],
+         "publication_year": [],
+         "publication_month": [],
+         "average_rating": "4.02",
+         "ratings_count": "1090",
+         "description": [],
+         "authors": {
+            "author": {
+               "id": "3354",
+               "name": "Haruki Murakami",
+               "role": [],
+               "image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+               },
+               "small_image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+               },
+               "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+               "average_rating": "3.95",
+               "ratings_count": "1734570",
+               "text_reviews_count": "125016"
+            }
+         },
+         "published": [],
+         "work": {
+            "id": "324410",
+            "uri": "kca://work/amzn1.gr.work.v1.D6dotchNRHCzJ4fdYZVFxw"
+         }
+      },
+      {
+         "id": 24955307,
+         "isbn": {
+            "@nil": "true"
+         },
+         "isbn13": {
+            "@nil": "true"
+         },
+         "text_reviews_count": 131,
+         "uri": "kca://book/amzn1.gr.book.v1.bE53lrNqMlddu0oGe1fh5g",
+         "title": "Kino",
+         "title_without_series": "Kino",
+         "image_url": "https://images.gr-assets.com/books/1424161214m/24955307.jpg",
+         "small_image_url": "https://images.gr-assets.com/books/1424161214s/24955307.jpg",
+         "large_image_url": [],
+         "link": "https://www.goodreads.com/book/show/24955307-kino",
+         "num_pages": "28",
+         "format": "ebook",
+         "edition_information": "New Yorker Online Fiction",
+         "publisher": "The New Yorker",
+         "publication_day": "23",
+         "publication_year": "2015",
+         "publication_month": "2",
+         "average_rating": "3.92",
+         "ratings_count": "1072",
+         "description": "The man always sat in the same seat, the stool farthest down the counter. When it wasn’t occupied, that is, but it was nearly always free. The bar was seldom crowded, and that particular seat was the most inconspicuous and the least comfortable. A staircase in the back made the ceiling slanted and low, so it was hard to stand up there without bumping your head. The man was tall, yet, for some reason, preferred that cramped, narrow spot.",
+         "authors": {
+            "author": {
+               "id": "3354",
+               "name": "Haruki Murakami",
+               "role": [],
+               "image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+               },
+               "small_image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+               },
+               "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+               "average_rating": "3.95",
+               "ratings_count": "1734570",
+               "text_reviews_count": "125016"
+            }
+         },
+         "published": "2015",
+         "work": {
+            "id": "44616617",
+            "uri": "kca://work/amzn1.gr.work.v1.5Hsw6LJcPYdNio4S66EMCQ"
+         }
+      },
+      {
+         "id": 33952849,
+         "isbn": "1784872636",
+         "isbn13": "9781784872632",
+         "text_reviews_count": 105,
+         "uri": "kca://book/amzn1.gr.book.v1.tmfu0LKzNSzLROL3X3RVwg",
+         "title": "Desire: Vintage Minis",
+         "title_without_series": "Desire: Vintage Minis",
+         "image_url": "https://images.gr-assets.com/books/1488651923m/33952849.jpg",
+         "small_image_url": "https://images.gr-assets.com/books/1488651923s/33952849.jpg",
+         "large_image_url": [],
+         "link": "https://www.goodreads.com/book/show/33952849-desire",
+         "num_pages": "128",
+         "format": "Paperback",
+         "edition_information": [],
+         "publisher": "Vintage Classics",
+         "publication_day": "8",
+         "publication_year": "2017",
+         "publication_month": "6",
+         "average_rating": "4.04",
+         "ratings_count": "1034",
+         "description": "You’ve just passed someone on the street who could be the love of your life, the person you’re destined for – what do you do? In Murakami’s world, you tell them a story. The five weird and wonderful tales collected here each unlock the many-tongued language of desire, whether it takes the form of hunger, lust, sudden infatuation or the secret longings of the heart.<br /><br />Selected from Haruki’s Murakami’s short story collections <i>The Elephant Vanishes, Blind Willow Sleeping Woman<\/i> and <i>Men Without Women<\/i>.",
+         "authors": {
+            "author": {
+               "id": "3354",
+               "name": "Haruki Murakami",
+               "role": [],
+               "image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+               },
+               "small_image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+               },
+               "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+               "average_rating": "3.95",
+               "ratings_count": "1734570",
+               "text_reviews_count": "125016"
+            }
+         },
+         "published": "2017",
+         "work": {
+            "id": "54925794",
+            "uri": "kca://work/amzn1.gr.work.v1.EMGF-gjTDn3z2P85d8S_Gw"
+         }
+      },
+      {
+         "id": 12473374,
+         "isbn": {
+            "@nil": "true"
+         },
+         "isbn13": {
+            "@nil": "true"
+         },
+         "text_reviews_count": 84,
+         "uri": "kca://book/amzn1.gr.book.v1.dAk0KamVZNkADyE0uGPouQ",
+         "title": "Town of Cats",
+         "title_without_series": "Town of Cats",
+         "image_url": "https://images.gr-assets.com/books/1314696275m/12473374.jpg",
+         "small_image_url": "https://images.gr-assets.com/books/1314696275s/12473374.jpg",
+         "large_image_url": [],
+         "link": "https://www.goodreads.com/book/show/12473374-town-of-cats",
+         "num_pages": "16",
+         "format": "ebook",
+         "edition_information": [],
+         "publisher": "The New Yorker",
+         "publication_day": "4",
+         "publication_year": "2011",
+         "publication_month": "9",
+         "average_rating": "4.06",
+         "ratings_count": "1021",
+         "description": "The story “Town of Cats” is excerpted from three-part novel, “1Q84”. In the book, Tengo is one of two main characters who pass between two distinct worlds, one of which has supernatural elements. But this story deals mainly with the real world —and the relationship between a boy and the man who raises him. Was this portrait of Tengo’s background —the disappearance of his mother, the difficult relationship with his father— part of your conception of the book and the character from the beginning?",
+         "authors": {
+            "author": {
+               "id": "3354",
+               "name": "Haruki Murakami",
+               "role": [],
+               "image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+               },
+               "small_image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+               },
+               "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+               "average_rating": "3.95",
+               "ratings_count": "1734570",
+               "text_reviews_count": "125016"
+            }
+         },
+         "published": "2011",
+         "work": {
+            "id": "17457573",
+            "uri": "kca://work/amzn1.gr.work.v1.8gie-KS3EMYbr4UMYfoXEA"
+         }
+      },
+      {
+         "id": 1659331,
+         "isbn": {
+            "@nil": "true"
+         },
+         "isbn13": {
+            "@nil": "true"
+         },
+         "text_reviews_count": 66,
+         "uri": "kca://book/amzn1.gr.book.v1.OBgDV_ujdtEUe1L9i-tAXg",
+         "title": "کجا ممکن است پیدایش کنم",
+         "title_without_series": "کجا ممکن است پیدایش کنم",
+         "image_url": "https://images.gr-assets.com/books/1260972965m/1659331.jpg",
+         "small_image_url": "https://images.gr-assets.com/books/1260972965s/1659331.jpg",
+         "large_image_url": [],
+         "link": "https://www.goodreads.com/book/show/1659331._",
+         "num_pages": "166",
+         "format": "Paperback",
+         "edition_information": [],
+         "publisher": [],
+         "publication_day": [],
+         "publication_year": "2007",
+         "publication_month": [],
+         "average_rating": "3.63",
+         "ratings_count": "1134",
+         "description": [],
+         "authors": {
+            "author": {
+               "id": "3354",
+               "name": "Haruki Murakami",
+               "role": [],
+               "image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+               },
+               "small_image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+               },
+               "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+               "average_rating": "3.95",
+               "ratings_count": "1734570",
+               "text_reviews_count": "125016"
+            }
+         },
+         "published": "2007",
+         "work": {
+            "id": "1654063",
+            "uri": "kca://work/amzn1.gr.work.v1.l7f1b5SNIRLED4_57sGOxQ"
+         }
+      },
+      {
+         "id": 23312593,
+         "isbn": {
+            "@nil": "true"
+         },
+         "isbn13": {
+            "@nil": "true"
+         },
+         "text_reviews_count": 116,
+         "uri": "kca://book/amzn1.gr.book.v1.kT3pnffijQt6n4M55sBcsg",
+         "title": "Scheherazade",
+         "title_without_series": "Scheherazade",
+         "image_url": "https://images.gr-assets.com/books/1412601918m/23312593.jpg",
+         "small_image_url": "https://images.gr-assets.com/books/1412601918s/23312593.jpg",
+         "large_image_url": [],
+         "link": "https://www.goodreads.com/book/show/23312593-scheherazade",
+         "num_pages": "20",
+         "format": "ebook",
+         "edition_information": [],
+         "publisher": "The New Yorker",
+         "publication_day": "13",
+         "publication_year": "2014",
+         "publication_month": "10",
+         "average_rating": "3.66",
+         "ratings_count": "1005",
+         "description": "“Scheherazade” is about a man who is being held in a house that he can’t leave, where he is visited twice a week by a woman who has been hired to bring him food and supplies, and perhaps also to attend to his sexual needs. We never learn, in the story, why Habara can’t leave the house. Do you know?",
+         "authors": {
+            "author": {
+               "id": "3354",
+               "name": "Haruki Murakami",
+               "role": [],
+               "image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+               },
+               "small_image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+               },
+               "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+               "average_rating": "3.95",
+               "ratings_count": "1734570",
+               "text_reviews_count": "125016"
+            }
+         },
+         "published": "2014",
+         "work": {
+            "id": "42866692",
+            "uri": "kca://work/amzn1.gr.work.v1.E4Tyx9F1sddWVeZMiLmI-A"
+         }
+      },
+      {
+         "id": 1854924,
+         "isbn": "4167502011",
+         "isbn13": "9784167502010",
+         "text_reviews_count": 19,
+         "uri": "kca://book/amzn1.gr.book.v1.7dlPwsvCIrbJsLv1rrvYSA",
+         "title": "パン屋再襲撃",
+         "title_without_series": "パン屋再襲撃",
+         "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+         "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+         "large_image_url": [],
+         "link": "https://www.goodreads.com/book/show/1854924._",
+         "num_pages": "221",
+         "format": "Paperback",
+         "edition_information": [],
+         "publisher": "文藝春秋",
+         "publication_day": "10",
+         "publication_year": "1989",
+         "publication_month": "4",
+         "average_rating": "3.68",
+         "ratings_count": "827",
+         "description": "　　日本知名作家村上春樹之短篇小說創作集精選，書中共收錄六篇短篇小說作品，包括「麵包店再襲擊」、「象的消失」、「家務事」、「雙胞胎與沉沒的大陸」、「羅馬帝國的瓦解‧1881年群起反抗的印地安人‧希特勒入侵波蘭‧以及強風世界」、「發條鳥與星期二的女人們」等。",
+         "authors": {
+            "author": {
+               "id": "3354",
+               "name": "Haruki Murakami",
+               "role": [],
+               "image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+               },
+               "small_image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+               },
+               "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+               "average_rating": "3.95",
+               "ratings_count": "1734570",
+               "text_reviews_count": "125016"
+            }
+         },
+         "published": "1989",
+         "work": {
+            "id": "1855512",
+            "uri": "kca://work/amzn1.gr.work.v1.AA267himyM1h_YxyT9Hfvw"
+         }
+      },
+      {
+         "id": 22401468,
+         "isbn": {
+            "@nil": "true"
+         },
+         "isbn13": {
+            "@nil": "true"
+         },
+         "text_reviews_count": 88,
+         "uri": "kca://book/amzn1.gr.book.v1.0kF3oUX2H6SpxF4XKyQdSQ",
+         "title": "Yesterday",
+         "title_without_series": "Yesterday",
+         "image_url": "https://images.gr-assets.com/books/1402929336m/22401468.jpg",
+         "small_image_url": "https://images.gr-assets.com/books/1402929336s/22401468.jpg",
+         "large_image_url": [],
+         "link": "https://www.goodreads.com/book/show/22401468-yesterday",
+         "num_pages": "52",
+         "format": "ebook",
+         "edition_information": [],
+         "publisher": "„The New Yorker“",
+         "publication_day": "9",
+         "publication_year": "2014",
+         "publication_month": "6",
+         "average_rating": "3.75",
+         "ratings_count": "799",
+         "description": "A short story by Haruki Murakami, published in The New Yorker magazine.",
+         "authors": {
+            "author": {
+               "id": "3354",
+               "name": "Haruki Murakami",
+               "role": [],
+               "image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+               },
+               "small_image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+               },
+               "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+               "average_rating": "3.95",
+               "ratings_count": "1734570",
+               "text_reviews_count": "125016"
+            }
+         },
+         "published": "2014",
+         "work": {
+            "id": "41826049",
+            "uri": "kca://work/amzn1.gr.work.v1.BNR3tZ0V1c9R7R_u8rqtWg"
+         }
+      },
+      {
+         "id": 17804,
+         "isbn": "1400033969",
+         "isbn13": "9781400033966",
+         "text_reviews_count": 34,
+         "uri": "kca://book/amzn1.gr.book.v1.11G5Ro9LoWHPNqrwfHJ2wQ",
+         "title": "Vintage Murakami",
+         "title_without_series": "Vintage Murakami",
+         "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+         "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+         "large_image_url": [],
+         "link": "https://www.goodreads.com/book/show/17804.Vintage_Murakami",
+         "num_pages": "182",
+         "format": "Paperback",
+         "edition_information": [],
+         "publisher": "Vintage Books USA",
+         "publication_day": "6",
+         "publication_year": "2004",
+         "publication_month": "1",
+         "average_rating": "4.02",
+         "ratings_count": "713",
+         "description": "A definitive compilation of writings by the critically acclaimed Japanese author features the opening chapter of his first novel Norwegian Wood, selections from The Wind-Up Bird Chronicle and Underground, and such stories as Barn Burning, Honeypie, and Iceman. Original. 25,000 first printing.",
+         "authors": {
+            "author": {
+               "id": "3354",
+               "name": "Haruki Murakami",
+               "role": [],
+               "image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+               },
+               "small_image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+               },
+               "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+               "average_rating": "3.95",
+               "ratings_count": "1734570",
+               "text_reviews_count": "125016"
+            }
+         },
+         "published": "2004",
+         "work": {
+            "id": "19319",
+            "uri": "kca://work/amzn1.gr.work.v1.jYmmlkz5TQGVl2oefOrB-g"
+         }
+      },
+      {
+         "id": 33947492,
+         "isbn": "4103534338",
+         "isbn13": "9784103534334",
+         "text_reviews_count": 6,
+         "uri": "kca://book/amzn1.gr.book.v1.isoS7yjJXpvLTEQ3iGPJFg",
+         "title": "騎士団長殺し―第2部　遷ろうメタファー編―",
+         "title_without_series": "騎士団長殺し―第2部　遷ろうメタファー編―",
+         "image_url": "https://images.gr-assets.com/books/1487866412m/33947492.jpg",
+         "small_image_url": "https://images.gr-assets.com/books/1487866412s/33947492.jpg",
+         "large_image_url": [],
+         "link": "https://www.goodreads.com/book/show/33947492-2",
+         "num_pages": "544",
+         "format": "Hardcover",
+         "edition_information": [],
+         "publisher": "新潮社",
+         "publication_day": "24",
+         "publication_year": "2017",
+         "publication_month": "2",
+         "average_rating": "3.91",
+         "ratings_count": "720",
+         "description": "その年の五月から翌年の初めにかけて、私は狭い谷間の入り口近くの、山の上に住んでいた。夏には谷の奥の方でひっきりなしに雨が降ったが、谷の外側はだいたい晴れていた……それは孤独で静謐な日々であるはずだった。騎士団長が顕（あらわ）れるまでは。",
+         "authors": {
+            "author": {
+               "id": "3354",
+               "name": "Haruki Murakami",
+               "role": [],
+               "image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+               },
+               "small_image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+               },
+               "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+               "average_rating": "3.95",
+               "ratings_count": "1734570",
+               "text_reviews_count": "125016"
+            }
+         },
+         "published": "2017",
+         "work": {
+            "id": "54917117",
+            "uri": "kca://work/amzn1.gr.work.v1.faMI046ZyAhXLPhB076ETA"
+         }
+      },
+      {
+         "id": 1633688,
+         "isbn": "4101001413",
+         "isbn13": "9784101001418",
+         "text_reviews_count": 5,
+         "uri": "kca://book/amzn1.gr.book.v1.wE8E-vrfk5NQVlwitncToA",
+         "title": "ねじまき鳥クロニクル (第1部) 泥棒かささぎ編",
+         "title_without_series": "ねじまき鳥クロニクル (第1部) 泥棒かささぎ編",
+         "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+         "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+         "large_image_url": [],
+         "link": "https://www.goodreads.com/book/show/1633688._1_",
+         "num_pages": "312",
+         "format": "Paperback",
+         "edition_information": [],
+         "publisher": "新潮社",
+         "publication_day": [],
+         "publication_year": "1997",
+         "publication_month": "9",
+         "average_rating": "3.99",
+         "ratings_count": "619",
+         "description": "僕とクミコの家から猫が消え、世界は闇にのみ込まれてゆく。―長い年代記の始まり。",
+         "authors": {
+            "author": {
+               "id": "3354",
+               "name": "Haruki Murakami",
+               "role": [],
+               "image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+               },
+               "small_image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+               },
+               "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+               "average_rating": "3.95",
+               "ratings_count": "1734570",
+               "text_reviews_count": "125016"
+            }
+         },
+         "published": "1997",
+         "work": {
+            "id": "21746760",
+            "uri": "kca://work/amzn1.gr.work.v1.j7vU5GLCDIUG3MxdGuHqEA"
+         }
+      },
+      {
+         "id": 1630197,
+         "isbn": "4062748681",
+         "isbn13": "9784062748681",
+         "text_reviews_count": 6,
+         "uri": "kca://book/amzn1.gr.book.v1._56pYWBoZMZT8t8QJ2zNRw",
+         "title": "ノルウェイの森 Vol. 1",
+         "title_without_series": "ノルウェイの森 Vol. 1",
+         "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+         "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+         "large_image_url": [],
+         "link": "https://www.goodreads.com/book/show/1630197._Vol_1",
+         "num_pages": "302",
+         "format": "Paperback",
+         "edition_information": [],
+         "publisher": "Kodansha",
+         "publication_day": "5",
+         "publication_year": "2009",
+         "publication_month": "8",
+         "average_rating": "3.99",
+         "ratings_count": "584",
+         "description": "1987年9月、講談社から書き下ろし作品として上下二分冊で刊行された。1991年4月に講談社文庫として文庫化、2004年9月に文庫改訂版が出された（なお、単行本にはあとがきが付されているが、文庫版には掲載されていない）。<br /><br />執筆はギリシャ、シチリア、ローマで行われた。そのため、引き続いてロンドンで執筆した『ダンス・ダンス・ダンス』と共に「異国の影のようなものが宿命的にしみついている」「結果として書かれるべくして書かれた小説」「もし日本で書かれていたとしたら、（中略）これほど垂直的に「入って」いかなかったろう」と村上は『遠い太鼓』に書いている。1987年3月7日、早朝から17時間休みなしで第一稿を深夜に書き上げる。直後の日記に「すごく良い」とだけ書き記した。3月26日、第二稿完成。すべてボールペンで手書き。<br /><br />学生運動の時代を背景として、主人公「僕」と、友人の恋人「直子」を軸に、様々な思春期の葛藤や人間模様、恋愛、喪失感などを巧みに描き、非常に広く読まれている。後述のように上巻は、片山恭一『世界の中心で、愛をさけぶ』に抜かれるまで、日本小説単行本の発行部数トップであった。<br /><br />主人公の通っている「東京の私立大学」は村上の母校早稲田大学を、「主人公が入っていた寮」は入寮していた和敬塾をモデルにしている。なおこの作品は村上の実体験を基にした「自伝的小説」であるとも見られるが、本人はこれを否定している。<br /><br />元となる作品として短編小説の「螢」（『中央公論』1983年1月号初出）がある。また、短編小説「めくらやなぎと眠る女」も本作にまとまっていく系統の作品だが、「螢」とは違って本作との間にストーリー上の直接の関連はないという。<br /><br />1989年、アルフレッド・バーンバウムの翻訳による英訳版『Norwegian Wood』が出版された。しかし同氏の英訳書はその後絶版となり、現在はジェイ・ルービンが翻訳したもの（2000年刊行）が流通している。アメリカ、イギリス、カナダ、オーストラリアなどの英語圏のほか、フランス、ドイツ、イタリア、ロシア、中国、台湾、韓国などでも翻訳されている。ノルウェー語にも翻訳された。",
+         "authors": {
+            "author": {
+               "id": "3354",
+               "name": "Haruki Murakami",
+               "role": [],
+               "image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+               },
+               "small_image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+               },
+               "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+               "average_rating": "3.95",
+               "ratings_count": "1734570",
+               "text_reviews_count": "125016"
+            }
+         },
+         "published": "2009",
+         "work": {
+            "id": "43847940",
+            "uri": "kca://work/amzn1.gr.work.v1.YTVwfMPOvPUanr8w04DL4Q"
+         }
+      },
+      {
+         "id": 1034472,
+         "isbn": "0099507072",
+         "isbn13": "9780099507079",
+         "text_reviews_count": 19,
+         "uri": "kca://book/amzn1.gr.book.v1.CxUyKi4YCx8m1Qx82FzM3A",
+         "title": "A Wild Sheep Chase / Dance Dance Dance (The Rat, #3-4)",
+         "title_without_series": "A Wild Sheep Chase / Dance Dance Dance",
+         "image_url": "https://images.gr-assets.com/books/1310256190m/1034472.jpg",
+         "small_image_url": "https://images.gr-assets.com/books/1310256190s/1034472.jpg",
+         "large_image_url": [],
+         "link": "https://www.goodreads.com/book/show/1034472.A_Wild_Sheep_Chase_Dance_Dance_Dance",
+         "num_pages": "695",
+         "format": "Paperback",
+         "edition_information": [],
+         "publisher": "Vintage",
+         "publication_day": [],
+         "publication_year": "2006",
+         "publication_month": [],
+         "average_rating": "4.16",
+         "ratings_count": "488",
+         "description": "\"A Wild Sheep Chase\" - His life was like his recurring nightmare: a train to nowhere. But an ordinary life has a way of taking an extraordinary turn. Add a girl whose ears are so exquisite that, when uncovered, they improve sex a thousand-fold, a runaway friend, a right-wing politico, an ovine-obsessed professor and a manic-depressive in a sheep outfit, implicate them in a hunt for a sheep, that may or may not be running the world, and the upshot is another singular masterpiece from Haruki Murakami. \"Dance Dance Dance\" - High-class call girls billed to Mastercard; a psychic thirteen-year-old drop-out with a passion for Talking Heads; a hunky matinee idol doomed to play dentists and teachers; a one-armed beach-combing poet, an uptight hotel clerk and one very bemused narrator caught in the web of advanced capitalist mayhem; combine this offbeat cast of characters with Murakami's idiosyncratic prose and out comes \"Dance Dance Dance\". It is an assault on the senses, part murder mystery, part metaphysical speculation; a fable for our times as catchy as a rock song blasting from the window of a sports car.",
+         "authors": {
+            "author": {
+               "id": "3354",
+               "name": "Haruki Murakami",
+               "role": [],
+               "image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+               },
+               "small_image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+               },
+               "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+               "average_rating": "3.95",
+               "ratings_count": "1734570",
+               "text_reviews_count": "125016"
+            }
+         },
+         "published": "2006",
+         "work": {
+            "id": "1171882",
+            "uri": "kca://work/amzn1.gr.work.v1.PZEGlDnixxIb61txzHk-7g"
+         }
+      },
+      {
+         "id": 18428386,
+         "isbn": {
+            "@nil": "true"
+         },
+         "isbn13": {
+            "@nil": "true"
+         },
+         "text_reviews_count": 18,
+         "uri": "kca://book/amzn1.gr.book.v1.eClLxRthrZBJP1MNL_rj_g",
+         "title": "Birthday girl",
+         "title_without_series": "Birthday girl",
+         "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+         "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+         "large_image_url": [],
+         "link": "https://www.goodreads.com/book/show/18428386-birthday-girl",
+         "num_pages": [],
+         "format": "ebook",
+         "edition_information": [],
+         "publisher": "Harper's Magazine",
+         "publication_day": [],
+         "publication_year": "2003",
+         "publication_month": "7",
+         "average_rating": "3.39",
+         "ratings_count": "579",
+         "description": "Eine junge Kellnerin wird zwanzig. Doch ihren Geburtstag verbringt sie nicht mit ihren Freunden; sie arbeitet. Ihr Chef, der Geschäftsführer des Restaurants, übergibt ihr eine wichtige Aufgabe. Sie muss pünktlich um zwanzig Uhr dem Inhaber des Lokals das Abendessen in dessen Suite bringen. Noch nie haben sie oder ihre Kollegen den Besitzer gesehen. Pünktlich um zwanzig Uhr steht sie vor der Suite. Es öffnet ihr ein zierlicher älterer Mann, der sie, anders als ihr Chef es ankündigte, in die Suite und um ihre Gesellschaft bittet. Auch ist der Herr, denn er ist eindeutig ein Herr, von ausgesuchter Höflichkeit. Die junge Frau ist verunsichert und verwundert über ihn. Trotzdem erzählt sie ihm irgendwann, dass sie Geburtstag hat. Woraufhin ihr der Mann ein Geschenk machen will. Er lässt sie wissen, dass sie einen Wunsch äußern dürfe, sich diesen aber sehr genau überlegen solle, denn sie könne ihn, einmal ausgesprochen, nicht mehr zurücknehmen. Und er eröffnet ihr, dass er ihren Wunsch tatsächlich erfüllen könne, ganz gleich, was es sei.",
+         "authors": {
+            "author": {
+               "id": "3354",
+               "name": "Haruki Murakami",
+               "role": [],
+               "image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+               },
+               "small_image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+               },
+               "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+               "average_rating": "3.95",
+               "ratings_count": "1734570",
+               "text_reviews_count": "125016"
+            }
+         },
+         "published": "2003",
+         "work": {
+            "id": "26069541",
+            "uri": "kca://work/amzn1.gr.work.v1.wOP030oi8m9-4hJoVR95rg"
+         }
+      },
+      {
+         "id": 15736386,
+         "isbn": {
+            "@nil": "true"
+         },
+         "isbn13": {
+            "@nil": "true"
+         },
+         "text_reviews_count": 12,
+         "uri": "kca://book/amzn1.gr.book.v1.Yh0hOfqahIubqATigbpStQ",
+         "title": "Super-Frog Saves Tokyo",
+         "title_without_series": "Super-Frog Saves Tokyo",
+         "image_url": "https://images.gr-assets.com/books/1347687020m/15736386.jpg",
+         "small_image_url": "https://images.gr-assets.com/books/1347687020s/15736386.jpg",
+         "large_image_url": [],
+         "link": "https://www.goodreads.com/book/show/15736386-super-frog-saves-tokyo",
+         "num_pages": "14",
+         "format": [],
+         "edition_information": [],
+         "publisher": [],
+         "publication_day": "3",
+         "publication_year": "2012",
+         "publication_month": "7",
+         "average_rating": "3.66",
+         "ratings_count": "530",
+         "description": "“Super-frog Saves Tokyo” is a short story from the collection “After the Quake.” Its English translation has been published in GQ magazine.<br /><br />If you’re looking for this in Japanese, the Japanese title of the story is 『かえるくん、東京を救う』and the collection is called『神の子供たちはみな踊る』, which is named after another story in the collection.",
+         "authors": {
+            "author": {
+               "id": "3354",
+               "name": "Haruki Murakami",
+               "role": [],
+               "image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+               },
+               "small_image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+               },
+               "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+               "average_rating": "3.95",
+               "ratings_count": "1734570",
+               "text_reviews_count": "125016"
+            }
+         },
+         "published": "2012",
+         "work": {
+            "id": "24071328",
+            "uri": "kca://work/amzn1.gr.work.v1.DNVe4C4oZOFYdvMGttQP4A"
+         }
+      },
+      {
+         "id": 2834229,
+         "isbn": "4103534184",
+         "isbn13": "9784103534181",
+         "text_reviews_count": 8,
+         "uri": "kca://book/amzn1.gr.book.v1.z_1y0XMN5TtPsJhVFTNLZQ",
+         "title": "東京奇譚集",
+         "title_without_series": "東京奇譚集",
+         "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+         "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+         "large_image_url": [],
+         "link": "https://www.goodreads.com/book/show/2834229",
+         "num_pages": "210",
+         "format": "単行本",
+         "edition_information": [],
+         "publisher": "新潮社 [Shinchōsha]",
+         "publication_day": "15",
+         "publication_year": "2005",
+         "publication_month": "9",
+         "average_rating": "3.85",
+         "ratings_count": "391",
+         "description": "全5篇のうち、以下の4篇は「新潮」2005年3月号~6月号に掲載。<br />　　偶然の旅人<br />　　ハナレイ・ベイ<br />　　どこであれそれが見つかりそうな場所で<br />　　日々移動する腎臓のかたちをした石<br /><br />　そのほかに以下の作品（書下ろし）が収録されています。<br />　　品川猿<br /><br />　また、収録作品の「偶然の旅人」と「どこであれそれが見つかりそうな場所で」は、すでに英訳がHarper's Magazine （7月号）、The New Yorker（5月2日号）に掲載されています",
+         "authors": {
+            "author": {
+               "id": "3354",
+               "name": "Haruki Murakami",
+               "role": [],
+               "image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+               },
+               "small_image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+               },
+               "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+               "average_rating": "3.95",
+               "ratings_count": "1734570",
+               "text_reviews_count": "125016"
+            }
+         },
+         "published": "2005",
+         "work": {
+            "id": "40088233",
+            "uri": "kca://work/amzn1.gr.work.v1.phKgyqa-x4S__HbLZAA-FA"
+         }
+      },
+      {
+         "id": 540914,
+         "isbn": "5699033599",
+         "isbn13": "9785699033591",
+         "text_reviews_count": 7,
+         "uri": "kca://book/amzn1.gr.book.v1.pLkwT4ZP-xa6v_nVzElCJA",
+         "title": "Призраки Лексингтона",
+         "title_without_series": "Призраки Лексингтона",
+         "image_url": "https://images.gr-assets.com/books/1363793778m/540914.jpg",
+         "small_image_url": "https://images.gr-assets.com/books/1363793778s/540914.jpg",
+         "large_image_url": [],
+         "link": "https://www.goodreads.com/book/show/540914._",
+         "num_pages": "144",
+         "format": "Hardcover",
+         "edition_information": [],
+         "publisher": "EKSMO Publishers",
+         "publication_day": [],
+         "publication_year": "2007",
+         "publication_month": [],
+         "average_rating": "3.85",
+         "ratings_count": "385",
+         "description": "\"Призраки Лексингтона\" (1996) - один из самых известных сборников рассказов классика современной японской литературы Харуки Мураками (р. 1949). Автор популярных во всем мире романов \"Охота на овец\", \"Дэнс, Дэнс, Дэнс\" и \"Хроники заводной птицы\" предстает в нем как мастер короткой прозы.<br /><br />Содержание:<br /><br />Призраки Лексингтона<br />Зеленый зверь<br />Молчание<br />Ледяной человек<br />Тони Такия<br />Седьмой<br />Слепая ива и спящая девушка<br />Послесловие",
+         "authors": {
+            "author": {
+               "id": "3354",
+               "name": "Haruki Murakami",
+               "role": [],
+               "image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+               },
+               "small_image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+               },
+               "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+               "average_rating": "3.95",
+               "ratings_count": "1734570",
+               "text_reviews_count": "125016"
+            }
+         },
+         "published": "2007",
+         "work": {
+            "id": "528287",
+            "uri": "kca://work/amzn1.gr.work.v1.ewAQ4bc6YJUVxvqrCCztDg"
+         }
+      },
+      {
+         "id": 30657137,
+         "isbn": {
+            "@nil": "true"
+         },
+         "isbn13": {
+            "@nil": "true"
+         },
+         "text_reviews_count": 86,
+         "uri": "kca://book/amzn1.gr.book.v1.g3bpZtGu5vX9g5OkoFagug",
+         "title": "ليدرهوزن",
+         "title_without_series": "ليدرهوزن",
+         "image_url": "https://images.gr-assets.com/books/1466452544m/30657137.jpg",
+         "small_image_url": "https://images.gr-assets.com/books/1466452544s/30657137.jpg",
+         "large_image_url": [],
+         "link": "https://www.goodreads.com/book/show/30657137",
+         "num_pages": "23",
+         "format": [],
+         "edition_information": [],
+         "publisher": "@ketab",
+         "publication_day": "19",
+         "publication_year": "2016",
+         "publication_month": "6",
+         "average_rating": "3.20",
+         "ratings_count": "398",
+         "description": "\" أمي تخلت عن أبي ، بسبب شورت \" <br />هذا ما قالته أحدي صديقات زوجتي ذات يوم .<br />بينما أنا مازلت للأن أفكر في تلك القصة ، عن شورت الليدرهوزنْ الذي أراده والدها ،و جربه شخصً آخر بدلًا عنه ، الهدية التذكارية التي لم يتسلمها والدها قط ، و التي كانت سببً في طلاقه من والدتها .",
+         "authors": {
+            "author": {
+               "id": "3354",
+               "name": "Haruki Murakami",
+               "role": [],
+               "image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+               },
+               "small_image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+               },
+               "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+               "average_rating": "3.95",
+               "ratings_count": "1734570",
+               "text_reviews_count": "125016"
+            }
+         },
+         "published": "2016",
+         "work": {
+            "id": "51202624",
+            "uri": "kca://work/amzn1.gr.work.v1.c17MW5hsRtUTngrYQDff-g"
+         }
+      },
+      {
+         "id": 672756,
+         "isbn": "4101001555",
+         "isbn13": {
+            "@nil": "true"
+         },
+         "text_reviews_count": 17,
+         "uri": "kca://book/amzn1.gr.book.v1.6QItyCl3q80VC9TtG3lyPQ",
+         "title": "海辺のカフカ Vol.2",
+         "title_without_series": "海辺のカフカ Vol.2",
+         "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+         "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+         "large_image_url": [],
+         "link": "https://www.goodreads.com/book/show/672756._Vol_2",
+         "num_pages": [],
+         "format": [],
+         "edition_information": [],
+         "publisher": "新潮社",
+         "publication_day": [],
+         "publication_year": "2005",
+         "publication_month": [],
+         "average_rating": "4.09",
+         "ratings_count": "257",
+         "description": "内容（「BOOK」データベースより）<br />四国の図書館に着いたカフカ少年が出会ったのは、30年前のヒットソング、夏の海辺の少年の絵、15歳の美しい少女―。一方、猫と交流ができる老人ナカタさんも、ホシノ青年に助けられながら旅を続ける。“入り口の石”を見つけだし、世界と世界が結びあわされるはずの場所を探すために。謎のキーワードが二人を導く闇の世界に出口はあるのか?海外でも高い評価を受ける傑作長篇小説。",
+         "authors": {
+            "author": {
+               "id": "3354",
+               "name": "Haruki Murakami",
+               "role": [],
+               "image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+               },
+               "small_image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+               },
+               "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+               "average_rating": "3.95",
+               "ratings_count": "1734570",
+               "text_reviews_count": "125016"
+            }
+         },
+         "published": "2005",
+         "work": {
+            "id": "24797123",
+            "uri": "kca://work/amzn1.gr.work.v1.3fh529P0fSDDfmbAsltdfQ"
+         }
+      },
+      {
+         "id": 1936716,
+         "isbn": "4163115102",
+         "isbn13": "9784163115108",
+         "text_reviews_count": 5,
+         "uri": "kca://book/amzn1.gr.book.v1.HeBK7IF0ytd72h4vT9E1UA",
+         "title": "TVピープル",
+         "title_without_series": "TVピープル",
+         "image_url": "https://images.gr-assets.com/books/1394211285m/1936716.jpg",
+         "small_image_url": "https://images.gr-assets.com/books/1394211285s/1936716.jpg",
+         "large_image_url": [],
+         "link": "https://www.goodreads.com/book/show/1936716.TV_",
+         "num_pages": "192",
+         "format": [],
+         "edition_information": [],
+         "publisher": "文藝春秋 (Bungei Shunjū)",
+         "publication_day": "25",
+         "publication_year": "1990",
+         "publication_month": "1",
+         "average_rating": "3.54",
+         "ratings_count": "280",
+         "description": "不意に部屋に侵入してきたTVピープル。詩を読むようにひとりごとを言う若者。男にとても犯されやすいという特性をもつ美しい女性建築家。17日間一睡もできず、さらに目が冴えている女。―それぞれが謎をかけてくるような、怖くて、奇妙な世界をつくりだす。作家の新しい到達点を示す、魅惑にみちた六つの短篇。",
+         "authors": {
+            "author": {
+               "id": "3354",
+               "name": "Haruki Murakami",
+               "role": [],
+               "image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+               },
+               "small_image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+               },
+               "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+               "average_rating": "3.95",
+               "ratings_count": "1734570",
+               "text_reviews_count": "125016"
+            }
+         },
+         "published": "1990",
+         "work": {
+            "id": "1939239",
+            "uri": "kca://work/amzn1.gr.work.v1.qL_O12JlvEx8ITUFXM6OAw"
+         }
+      },
+      {
+         "id": 1630200,
+         "isbn": "4101001545",
+         "isbn13": "9784101001548",
+         "text_reviews_count": 8,
+         "uri": "kca://book/amzn1.gr.book.v1.vIJG_A3kbQJrMpiCRdzRRQ",
+         "title": "海辺のカフカ [Umibe no Kafuka] Vol.1",
+         "title_without_series": "海辺のカフカ [Umibe no Kafuka] Vol.1",
+         "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+         "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+         "large_image_url": [],
+         "link": "https://www.goodreads.com/book/show/1630200._Umibe_no_Kafuka_Vol_1",
+         "num_pages": "486",
+         "format": "Paperback",
+         "edition_information": [],
+         "publisher": [],
+         "publication_day": [],
+         "publication_year": "2002",
+         "publication_month": [],
+         "average_rating": "4.02",
+         "ratings_count": "231",
+         "description": "「君はこれから世界でいちばんタフな15歳の少年になる」――15歳の誕生日がやってきたとき、僕は家を出て遠くの知らない街に行き、小さな図書館の片隅で暮らすようになった。家を出るときに父の書斎から持ちだしたのは、現金だけじゃない。古いライター、折り畳み式のナイフ、ポケット・ライト、濃いスカイブルーのレヴォのサングラス。小さいころの姉と僕が二人並んでうつった写真……。",
+         "authors": {
+            "author": {
+               "id": "3354",
+               "name": "Haruki Murakami",
+               "role": [],
+               "image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+               },
+               "small_image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+               },
+               "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+               "average_rating": "3.95",
+               "ratings_count": "1734570",
+               "text_reviews_count": "125016"
+            }
+         },
+         "published": "2002",
+         "work": {
+            "id": "24797128",
+            "uri": "kca://work/amzn1.gr.work.v1.XnF8yEzUC2chHHcllRc7UQ"
+         }
+      },
+      {
+         "id": 16097279,
+         "isbn": {
+            "@nil": "true"
+         },
+         "isbn13": "9789643807825",
+         "text_reviews_count": 34,
+         "uri": "kca://book/amzn1.gr.book.v1.TRf6pp-pgMhKsrQm6HSW8w",
+         "title": "نفر هفتم",
+         "title_without_series": "نفر هفتم",
+         "image_url": "https://images.gr-assets.com/books/1350739429m/16097279.jpg",
+         "small_image_url": "https://images.gr-assets.com/books/1350739429s/16097279.jpg",
+         "large_image_url": [],
+         "link": "https://www.goodreads.com/book/show/16097279",
+         "num_pages": "143",
+         "format": "Paperback",
+         "edition_information": [],
+         "publisher": "نشر ثالث",
+         "publication_day": [],
+         "publication_year": "2011",
+         "publication_month": [],
+         "average_rating": "3.51",
+         "ratings_count": "260",
+         "description": "شامل ۸ داستان کوتاه از موراکامی، شامل:<br />خلیج هانالی<br />خرچنگ‌ها<br />یک روز مناسب برای کانگوروها<br />نفر هفتم<br />آینه<br />دختر تولد<br />ظهور و سقوط کیک‌های شارپی<br />حشره شبتاب",
+         "authors": {
+            "author": {
+               "id": "3354",
+               "name": "Haruki Murakami",
+               "role": [],
+               "image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+               },
+               "small_image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+               },
+               "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+               "average_rating": "3.95",
+               "ratings_count": "1734570",
+               "text_reviews_count": "125016"
+            }
+         },
+         "published": "2011",
+         "work": {
+            "id": "40863996",
+            "uri": "kca://work/amzn1.gr.work.v1.BH5HHprcD90AkRiyFX013Q"
+         }
+      },
+      {
+         "id": 29769789,
+         "isbn": {
+            "@nil": "true"
+         },
+         "isbn13": {
+            "@nil": "true"
+         },
+         "text_reviews_count": 86,
+         "uri": "kca://book/amzn1.gr.book.v1.Lmq3wTLGX7BgQmVcrYjdgg",
+         "title": "حرق حظيرة",
+         "title_without_series": "حرق حظيرة",
+         "image_url": "https://images.gr-assets.com/books/1477409480m/29769789.jpg",
+         "small_image_url": "https://images.gr-assets.com/books/1477409480s/29769789.jpg",
+         "large_image_url": [],
+         "link": "https://www.goodreads.com/book/show/29769789",
+         "num_pages": "43",
+         "format": [],
+         "edition_information": [],
+         "publisher": [],
+         "publication_day": [],
+         "publication_year": [],
+         "publication_month": [],
+         "average_rating": "3.14",
+         "ratings_count": "287",
+         "description": [],
+         "authors": {
+            "author": {
+               "id": "3354",
+               "name": "Haruki Murakami",
+               "role": [],
+               "image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+               },
+               "small_image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+               },
+               "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+               "average_rating": "3.95",
+               "ratings_count": "1734570",
+               "text_reviews_count": "125016"
+            }
+         },
+         "published": [],
+         "work": {
+            "id": "50133662",
+            "uri": "kca://work/amzn1.gr.work.v1.wWxCu02cx8rBvevo47bFpw"
+         }
+      },
+      {
+         "id": 1633708,
+         "isbn": "4101001529",
+         "isbn13": "9784101001524",
+         "text_reviews_count": 7,
+         "uri": "kca://book/amzn1.gr.book.v1._5g4BDaAOObKMB2or00a9Q",
+         "title": "村上ラヂオ",
+         "title_without_series": "村上ラヂオ",
+         "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+         "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+         "large_image_url": [],
+         "link": "https://www.goodreads.com/book/show/1633708._",
+         "num_pages": [],
+         "format": [],
+         "edition_information": [],
+         "publisher": "新潮社",
+         "publication_day": [],
+         "publication_year": "2003",
+         "publication_month": "6",
+         "average_rating": "3.89",
+         "ratings_count": "228",
+         "description": "パソコンのスイッチを入れたら、本書の140ページを開いてみて下さい。立ち上がるまでの時間が楽しく過ごせます。<br /><br />公園のベンチで食べる熱々のコロッケパン。冬のゴルフコースをスキーで走る楽しさ——。オーバーの中に子犬を抱いているような、ほのぼのとした気持ちで毎日をすごしたいあなたに、ちょっと変わった50のエッセイを贈ります。柿ピーの諸問題、楽しいレストランでの大惨事（？）から、きんぴら作りに最適なBGM、そして理想的な体重計の考察まで、小さなドラマが一杯！",
+         "authors": {
+            "author": {
+               "id": "3354",
+               "name": "Haruki Murakami",
+               "role": [],
+               "image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+               },
+               "small_image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+               },
+               "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+               "average_rating": "3.95",
+               "ratings_count": "1734570",
+               "text_reviews_count": "125016"
+            }
+         },
+         "published": "2003",
+         "work": {
+            "id": "17026349",
+            "uri": "kca://work/amzn1.gr.work.v1.mpGGZnf7XD_oAhIBDwDT5g"
+         }
+      },
+      {
+         "id": 1630196,
+         "isbn": "406274869X",
+         "isbn13": "9784062748698",
+         "text_reviews_count": 3,
+         "uri": "kca://book/amzn1.gr.book.v1.V_Yb2ksxmIzR0oh27N1VMg",
+         "title": "ノルウェイの森 Vol. 2",
+         "title_without_series": "ノルウェイの森 Vol. 2",
+         "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+         "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+         "large_image_url": [],
+         "link": "https://www.goodreads.com/book/show/1630196._Vol_2",
+         "num_pages": "296",
+         "format": "Paperback",
+         "edition_information": [],
+         "publisher": [],
+         "publication_day": [],
+         "publication_year": [],
+         "publication_month": [],
+         "average_rating": "4.02",
+         "ratings_count": "218",
+         "description": "1987年9月、講談社から書き下ろし作品として上下二分冊で刊行された。1991年4月に講談社文庫として文庫化、2004年9月に文庫改訂版が出された（なお、単行本にはあとがきが付されているが、文庫版には掲載されていない）。<br /><br />執筆はギリシャ、シチリア、ローマで行われた。そのため、引き続いてロンドンで執筆した『ダンス・ダンス・ダンス』と共に「異国の影のようなものが宿命的にしみついている」「結果として書かれるべくして書かれた小説」「もし日本で書かれていたとしたら、（中略）これほど垂直的に「入って」いかなかったろう」と村上は『遠い太鼓』に書いている。1987年3月7日、早朝から17時間休みなしで第一稿を深夜に書き上げる。直後の日記に「すごく良い」とだけ書き記した。3月26日、第二稿完成。すべてボールペンで手書き。<br /><br />学生運動の時代を背景として、主人公「僕」と、友人の恋人「直子」を軸に、様々な思春期の葛藤や人間模様、恋愛、喪失感などを巧みに描き、非常に広く読まれている。後述のように上巻は、片山恭一『世界の中心で、愛をさけぶ』に抜かれるまで、日本小説単行本の発行部数トップであった。<br /><br />主人公の通っている「東京の私立大学」は村上の母校早稲田大学を、「主人公が入っていた寮」は入寮していた和敬塾をモデルにしている。なおこの作品は村上の実体験を基にした「自伝的小説」であるとも見られるが、本人はこれを否定している。<br /><br />元となる作品として短編小説の「螢」（『中央公論』1983年1月号初出）がある。また、短編小説「めくらやなぎと眠る女」も本作にまとまっていく系統の作品だが、「螢」とは違って本作との間にストーリー上の直接の関連はないという。<br /><br />1989年、アルフレッド・バーンバウムの翻訳による英訳版『Norwegian Wood』が出版された。しかし同氏の英訳書はその後絶版となり、現在はジェイ・ルービンが翻訳したもの（2000年刊行）が流通している。アメリカ、イギリス、カナダ、オーストラリアなどの英語圏のほか、フランス、ドイツ、イタリア、ロシア、中国、台湾、韓国などでも翻訳されている。ノルウェー語にも翻訳された。",
+         "authors": {
+            "author": {
+               "id": "3354",
+               "name": "Haruki Murakami",
+               "role": [],
+               "image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+               },
+               "small_image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+               },
+               "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+               "average_rating": "3.95",
+               "ratings_count": "1734570",
+               "text_reviews_count": "125016"
+            }
+         },
+         "published": [],
+         "work": {
+            "id": "43848002",
+            "uri": "kca://work/amzn1.gr.work.v1.8xbJ12E3eec7cf8J8SuYpQ"
+         }
+      },
+      {
+         "id": 9521576,
+         "isbn": {
+            "@nil": "true"
+         },
+         "isbn13": {
+            "@nil": "true"
+         },
+         "text_reviews_count": 8,
+         "uri": "kca://book/amzn1.gr.book.v1.A8k9HUeop1D2xJttX0lvrQ",
+         "title": "Hunting Knife",
+         "title_without_series": "Hunting Knife",
+         "image_url": "https://images.gr-assets.com/books/1335631559m/9521576.jpg",
+         "small_image_url": "https://images.gr-assets.com/books/1335631559s/9521576.jpg",
+         "large_image_url": [],
+         "link": "https://www.goodreads.com/book/show/9521576-hunting-knife",
+         "num_pages": "16",
+         "format": "ebook",
+         "edition_information": "New Yorker Online Fiction",
+         "publisher": "The New Yorker",
+         "publication_day": "17",
+         "publication_year": "2003",
+         "publication_month": "11",
+         "average_rating": "3.47",
+         "ratings_count": "216",
+         "description": "<b>„Hunting Knife“<\/b> is a story from the collection of short stories <b>„Blind Willow, Sleeping Woman“<\/b> by Japanese author Haruki Murakami.<br /><br />The stories contained in the book were written between 1981 and 2005 and this collection was first published in English in 2006.<br /><br />In the introductory notes Murakami declares, <i>‘I find writing novels a challenge, writing stories a joy. If writing novels is like planting a forest, then writing short stories is more like planting a garden.’<\/i> This elegant analogy serves to give the reader some idea of what awaits.",
+         "authors": {
+            "author": {
+               "id": "3354",
+               "name": "Haruki Murakami",
+               "role": [],
+               "image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+               },
+               "small_image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+               },
+               "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+               "average_rating": "3.95",
+               "ratings_count": "1734570",
+               "text_reviews_count": "125016"
+            }
+         },
+         "published": "2003",
+         "work": {
+            "id": "40570082",
+            "uri": "kca://work/amzn1.gr.work.v1.0ZF_hFj8gamqE6FlCzVsDw"
+         }
+      },
+      {
+         "id": 2524361,
+         "isbn": "5699181245",
+         "isbn13": "9785699181247",
+         "text_reviews_count": 5,
+         "uri": "kca://book/amzn1.gr.book.v1.tFNTfSJfVqvTMdXoV_vaMg",
+         "title": "Медленной шлюпкой в Китай",
+         "title_without_series": "Медленной шлюпкой в Китай",
+         "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+         "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+         "large_image_url": [],
+         "link": "https://www.goodreads.com/book/show/2524361._",
+         "num_pages": "192",
+         "format": "Hardcover",
+         "edition_information": [],
+         "publisher": "Eksmo",
+         "publication_day": [],
+         "publication_year": "2006",
+         "publication_month": [],
+         "average_rating": "3.74",
+         "ratings_count": "199",
+         "description": "\"Медленной шлюпкой в Китай\" - первая книга короткой прозы японского классика современной мировой литературы Харуки Мураками. \"В ней представлена большая часть того, что можно назвать моим миром\", - говорил об этой книге сам автор. Безумный стилистический фейерверк, пронзительная нежность, трагизм и юмор мировосприятия, романтический сюрреализм будущего автора \"Хроник Заводной Птицы\" и \"Послемрака\" - впервые на русском языке.",
+         "authors": {
+            "author": {
+               "id": "3354",
+               "name": "Haruki Murakami",
+               "role": [],
+               "image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p5/3354.jpg"
+               },
+               "small_image_url": {
+                  "@nophoto": "false",
+                  "#text": "https://images.gr-assets.com/authors/1470611596p2/3354.jpg"
+               },
+               "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+               "average_rating": "3.95",
+               "ratings_count": "1734570",
+               "text_reviews_count": "125016"
+            }
+         },
+         "published": "2006",
+         "work": {
+            "id": "1627892",
+            "uri": "kca://work/amzn1.gr.work.v1.-pueJIqXdZQ5Rji1ZYwO9w"
+         }
+      }
+            ]
+        }
+   }
+}
